@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Copy Modpack Downloader') {
             steps {
-                copyArtifacts filter: 'modpackdownloader-cli/target/*.jar', projectName: 'Mod Pack Downloader', selector: lastSuccessful()
+                copyArtifacts filter: 'modpackdownloader-cli/target/*.jar', projectName: 'Mod Pack Downloader', selector: lastSuccessful(), flatten: true
             }
         }
         stage('Download Mods') {
