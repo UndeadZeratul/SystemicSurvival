@@ -2,6 +2,7 @@
 	"dependencies": "thermalfoundation",
 	"populate": {
 		"copper": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
@@ -22,6 +23,7 @@
 			}
 		},
 		"tin": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -45,6 +47,7 @@
 			}
 		},
 		"silver": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -76,6 +79,7 @@
 			}
 		},
 		"lead": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -107,6 +111,7 @@
 			}
 		},
 		"nickel": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -130,6 +135,7 @@
 			}
 		},
 		"copper_ocean": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
@@ -158,6 +164,7 @@
 			}
 		},
 		"copper_high": {
+			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
