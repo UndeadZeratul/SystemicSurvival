@@ -101,7 +101,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.1,
+      "amountPerChunk": 1.0,
       "enable": true
     },
     "grass": {
@@ -118,7 +118,7 @@
           "variant": "stone_formation"
         }
       },
-      "generationAttempts": 16,
+      "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 5,
       "enable": true,

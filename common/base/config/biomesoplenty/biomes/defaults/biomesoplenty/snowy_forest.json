@@ -51,7 +51,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.1,
+      "amountPerChunk": 0.2,
       "enable": true
     },
     "flowers": {
@@ -89,7 +89,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.05,
+      "amountPerChunk": 0.1,
       "enable": true
     },
     "grass": {
@@ -106,7 +106,7 @@
           "variant": "stone_formation"
         }
       },
-      "generationAttempts": 16,
+      "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 5,
       "enable": true,

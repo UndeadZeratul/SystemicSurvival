@@ -90,7 +90,7 @@
           "variant": "stone_formation"
         }
       },
-      "generationAttempts": 16,
+      "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 5,
       "enable": true,
@@ -203,7 +203,7 @@
         }
       },
       "generationAttempts": 8,
-      "amountPerChunk": 0.25,
+      "amountPerChunk": 0.4,
       "enable": true
     },
     "peridot": {

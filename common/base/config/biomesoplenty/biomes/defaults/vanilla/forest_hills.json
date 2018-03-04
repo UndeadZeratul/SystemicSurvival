@@ -24,7 +24,7 @@
       "enable": true
     },
     "flowers": {
-      "amountPerChunk": 0.15,
+      "amountPerChunk": 0.2,
       "enable": true,
       "generators": {}
     },
@@ -81,7 +81,7 @@
           "variant": "stone_formation"
         }
       },
-      "generationAttempts": 16,
+      "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 7,
       "enable": true,
