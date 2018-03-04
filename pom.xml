@@ -4,6 +4,7 @@
     <artifactId>systemic-survival</artifactId>
     <version>0.0.1</version>
     <name>Systemic Survival</name>
+    <description>Low-tech modpack focused on systemic gameplay mechanics and immersion</description>
     <url>http://github.com/UndeadZeratul/SystemicSurvival</url>
     <packaging>pom</packaging>
     <properties>

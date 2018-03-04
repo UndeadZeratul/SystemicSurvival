@@ -1,8 +1,10 @@
 {
-  "name": "Example Name",
-  "description": "Example Description",
-  "version": "0.0.0",
-  "url": "",
-  "authorList": [],
+  "name": "${project.name}",
+  "description": "${project.description}",
+  "version": "${project.version}",
+  "url": "${project.url}",
+  "authorList": [
+    "Undead_Zeratul"
+  ],
   "credits": ""
 }
