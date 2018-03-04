@@ -14,19 +14,8 @@ pipeline {
         }
         stage('Download Mods') {
             steps {
-                step('Download Common Mods') {
-                    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-                           java -jar "%modpackdownloader%" -manifest common/dev/mods.json  -folder common/dev/mods
-                           java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods'''
-                }
-                step('Download Client Mods') {
-                    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-                           java -jar "%modpackdownloader%" -manifest client/base/mods.json -folder client/base/mods'''
-                }
-                step('Download Server Mods') {
-                    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-                           java -jar "%modpackdownloader%" -manifest server/base/mods.json -folder server/base/mods'''
-                }
+                bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+                       java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods'''
             }
         }
         stage('Build Modpack') {
