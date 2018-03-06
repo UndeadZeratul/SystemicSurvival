@@ -80,7 +80,7 @@
       "name": "betterfps"
     },
     {
-      "fileID": 2537006,
+      "fileID": 2537804,
       "projectID": 220318,
       "name": "biomes-o-plenty"
     },
@@ -187,12 +187,17 @@
       "name": "drcyanos-lootable-bodies"
     },
     {
+      "fileID": 2537698,
+      "projectID": 289529,
+      "name": "dtbop"
+    },
+    {
       "fileID": 2536945,
       "projectID": 238891,
       "name": "dynamic-surroundings"
     },
     {
-      "fileID": 2527239,
+      "fileID": 2537689,
       "projectID": 252818,
       "name": "dynamictrees"
     },
