@@ -1,0 +1,264 @@
+Umbrium
+	blockUmbrium
+	oreUmbrium
+	nuggetUmbrium
+	ingotUmbrium
+
+Tin
+	blockTin
+	oreTin
+	plateTin
+	dustTin
+	gearTin
+	nuggetTin
+	ingotTin
+	coinTin
+
+Galena
+	oreGalena
+
+Nickel
+	blockNickel
+	oreNickel
+	plateNickel
+	dustNickel
+	gearNickel
+	nuggetNickel
+	ingotNickel
+	coinNickel
+
+Enderium
+	blockEnderium
+	plateEnderium
+	dustEnderium
+	gearEnderium
+	nuggetEnderium
+	ingotEnderium
+	coinEnderium
+
+Invar
+	blockInvar
+	plateInvar
+	dustInvar
+	gearInvar
+	nuggetInvar
+	ingotInvar
+	coinInvar
+
+Mithril
+	blockMithril
+	oreMithril
+	plateMithril
+	dustMithril
+	gearMithril
+	nuggetMithril
+	ingotMithril
+	coinMithril
+
+Pigiron
+	blockPigiron
+	platePigiron
+	dustPigiron
+	nuggetPigiron
+	ingotPigiron
+
+Vanadium
+	blockVanadium
+	plateVanadium
+	dustVanadium
+	nuggetVanadium
+	ingotVanadium
+
+Finite
+	blockFinite
+	oreFinite
+	ingotFinite
+
+Tamahagane
+	clumpTamahagane
+	blockTamahagane
+	plateTamahagane
+	ingotTamahagane
+
+Steel
+	blockSteel
+	plateSteel
+	dustSteel
+	gearSteel
+	nuggetSteel
+	ingotSteel
+	coinSteel
+
+Lumium
+	blockLumium
+	plateLumium
+	dustLumium
+	gearLumium
+	nuggetLumium
+	ingotLumium
+	coinLumium
+
+Osmium
+	nuggetOsmium
+
+Zinc
+	blockZinc
+	oreZinc
+	plateZinc
+	dustZinc
+	nuggetZinc
+	ingotZinc
+
+Ravaging
+	ingotRavaging
+
+Electrum
+	blockElectrum
+	oreElectrum
+	plateElectrum
+	dustElectrum
+	gearElectrum
+	nuggetElectrum
+	ingotElectrum
+	coinElectrum
+
+Iron
+	clumpBogIron
+	strandIron
+	ringIron
+	slatIron
+	dustTinyIron
+	pinIron
+	BogIron
+	oreBogIron
+	meshIron
+	blockIron
+	oreIron
+	plateIron
+	dustIron
+	gearIron
+	nuggetIron
+	ingotIron
+	coinIron
+
+Wootz
+	blockWootz
+	plateWootz
+	dustWootz
+	nuggetWootz
+	ingotWootz
+
+Signalum
+	blockSignalum
+	plateSignalum
+	dustSignalum
+	gearSignalum
+	nuggetSignalum
+	ingotSignalum
+	coinSignalum
+
+Aluminum
+	blockAluminum
+	oreAluminum
+	plateAluminum
+	dustAluminum
+	gearAluminum
+	nuggetAluminum
+	ingotAluminum
+	coinAluminum
+
+Bronze
+	blockBronze
+	plateBronze
+	dustBronze
+	gearBronze
+	nuggetBronze
+	ingotBronze
+	coinBronze
+
+Constantan
+	blockConstantan
+	plateConstantan
+	dustConstantan
+	gearConstantan
+	nuggetConstantan
+	ingotConstantan
+	coinConstantan
+
+Iridium
+	blockIridium
+	oreIridium
+	plateIridium
+	dustIridium
+	gearIridium
+	nuggetIridium
+	ingotIridium
+	coinIridium
+
+Brass
+	blockBrass
+	plateBrass
+	dustBrass
+	nuggetBrass
+	ingotBrass
+
+Uranium
+	oreUranium
+
+Platinum
+	blockPlatinum
+	orePlatinum
+	platePlatinum
+	dustPlatinum
+	gearPlatinum
+	nuggetPlatinum
+	ingotPlatinum
+	coinPlatinum
+
+Titanium
+	oreTitanium
+
+Silver
+	blockSilver
+	oreSilver
+	plateSilver
+	dustSilver
+	gearSilver
+	nuggetSilver
+	ingotSilver
+	coinSilver
+
+Lead
+	blockLead
+	oreLead
+	plateLead
+	dustLead
+	gearLead
+	nuggetLead
+	ingotLead
+	coinLead
+
+Unknown
+	nuggetUnknown
+
+Gold
+	blockGold
+	oreGold
+	plateGold
+	dustGold
+	gearGold
+	nuggetGold
+	ingotGold
+	coinGold
+
+Copper
+	standCopper
+	blockCopper
+	oreCopper
+	plateCopper
+	dustCopper
+	gearCopper
+	nuggetCopper
+	ingotCopper
+	coinCopper
+
