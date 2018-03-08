@@ -1,0 +1,116 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Denier
+item.millenaire.denieror.name=Denier Or
+item.millenaire.denierargent.name=Denier Argent
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Boudin Noir
+
+tile.millenaire.dirtwall.name=Pared de tierra
+
+tile.millenaire.locked_chest.name=Edificios
+item.millenaire.normanpickaxe.name=Pico normando
+item.millenaire.normanaxe.name=Hacha normanda
+item.millenaire.normanshovel.name=Pala normanda
+item.millenaire.normanhoe.name=Azada normanda
+item.millenaire.normanbroadsword.name=Espada normanda
+item.millenaire.normanhelmet.name=Casco normando
+item.millenaire.normanplate.name=Pechera normanda
+item.millenaire.normanlegs.name=Mallas normandas
+item.millenaire.normanboots.name=Botas normandas
+item.millenaire.rice.name=Arroz
+item.millenaire.turmeric.name=Cúrcuma
+item.millenaire.vegcurry.name=Curry vegetariano
+item.millenaire.chickenmeat.name=Carne de pollo
+item.millenaire.chickencurry.name=Curry murgh
+item.millenaire.brickmould.name=Molde de ladrillos
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Marco de madera
+tile.millenaire.timberframecross.name=Marco de madera cruzado
+tile.millenaire.wetbrick0.name=Ladrillo húmedo
+tile.millenaire.cookedbrick.name=Ladrillo cocido
+tile.millenaire.mudbrick.name=Ladrillo de lodo
+item.millenaire.indianstatue.name=Estatua hindú
+item.millenaire.ciderapple.name=Manzana de sidra
+item.millenaire.cider.name=Sidra
+item.millenaire.summoningwand.name=Varita de invocación
+item.millenaire.negationwand.name=Varita de negación
+item.millenaire.parchment_normanvillagers.name=Aldeanos normandos
+item.millenaire.parchment_normanitems.name=Objetos normandos
+item.millenaire.parchment_normanbuildings.name=Edificios normandos
+item.millenaire.parchment_normanfull.name=Pergamino completo normando
+item.millenaire.tapestry.name=Tapiz normando
+item.millenaire.vishnu_amulet.name=Amuleto de Visnú
+item.millenaire.alchemist_amulet.name=Amuleto del Alquimista
+item.millenaire.yggdrasil_amulet.name=Amuleto de Yggdrasil
+item.millenaire.skoll_hati_amulet.name=Amuleto de Sköll y Rati
+item.millenaire.parchment_villagescroll.name=Pergaminos de la aldea
+item.millenaire.parchment_indianvillagers.name=Aldeanos hindúes
+item.millenaire.parchment_indianitems.name=Objetos hindúes
+item.millenaire.parchment_indianbuildings.name=Edificios hindúes
+item.millenaire.parchment_indianfull.name=Pergamino completo hindú
+item.millenaire.unknownpowder.name=Pólvora misteriosa
+tile.millenaire.alchemistexplosive.name=Explosivo del Alquimista
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Maíz
+tile.millenaire.mayangoldblock.name=Ornamento de oro
+item.millenaire.mayanstatue.name=Grabado maya
+item.millenaire.parchment_mayanvillagers.name=Aldeanos maya
+item.millenaire.parchment_mayanitems.name=Objetos maya
+item.millenaire.parchment_mayanbuildings.name=Edificios maya
+item.millenaire.parchment_mayanfull.name=Pergamino completo maya
+item.millenaire.mayanmace.name=Mazo de obsidiana
+item.millenaire.mayanpickaxe.name=Pico de obsidiana
+item.millenaire.mayanaxe.name=Hacha de obsidina
+item.millenaire.mayanshovel.name=Pala de obsidiana
+item.millenaire.mayanhoe.name=Azada de obsidiana
+item.millenaire.obsidianflake.name=Lasca de obsidiana
+
+tile.millenaire.paper_wall.name=Pared de papel
+item.millenaire.udon.name=Udon
+item.millenaire.thatched.name=Tejado de paja
+
+item.millenaire.parchment_sadhu.name=Libro del Sadhu
+
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Arco yumi
+
+item.millenaire.japanesebluelegs.name=Mallas ō-yoroi
+item.millenaire.japanesebluehelmet.name=Casco ō-yoroi
+item.millenaire.japaneseblueplate.name=Pechera ō-yoroi
+item.millenaire.japaneseblueboots.name=Botas ō-yoroi
+
+item.millenaire.japaneseredlegs.name=Mallas ō-yoroi rojas
+item.millenaire.japaneseredhelmet.name=Casco ō-yoroi rojo
+item.millenaire.japaneseredplate.name=Pechera ō-yoroi roja
+item.millenaire.japaneseredboots.name=Botas ō-yoroi rojas
+
+item.millenaire.japaneseguardlegs.name=Mallas keiko
+item.millenaire.japaneseguardhelmet.name=Casco keiko
+item.millenaire.japaneseguardplate.name=Pechera keiko
+item.millenaire.japaneseguardboots.name=Botas keiko
+
+item.millenaire.parchment_japanesevillagers.name=Aldeanos japoneses
+item.millenaire.parchment_japaneseitems.name=Objetos japoneses
+item.millenaire.parchment_japanesebuildings.name=Edificios japoneses
+item.millenaire.parchment_japanesefull.name=Pergamino japonés completo

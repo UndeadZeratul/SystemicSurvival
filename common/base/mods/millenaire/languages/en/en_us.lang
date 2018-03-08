@@ -1,0 +1,161 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+#Item names
+
+itemGroup.millenaire=Millénaire
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Denier
+item.millenaire.denieror.name=Denier Or
+item.millenaire.denierargent.name=Denier Argent
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Boudin Noir
+
+tile.millenaire.dirtwall.name=Dirt Wall
+
+tile.millenaire.locked_chest.name=Locked Chest
+item.millenaire.normanpickaxe.name=Norman Pickaxe
+item.millenaire.normanaxe.name=Norman Axe
+item.millenaire.normanshovel.name=Norman Shovel
+item.millenaire.normanhoe.name=Norman Hoe
+item.millenaire.normanbroadsword.name=Norman Broadsword
+item.millenaire.normanhelmet.name=Norman Helmet
+item.millenaire.normanplate.name=Norman Chestplate
+item.millenaire.normanlegs.name=Norman Leggings
+item.millenaire.normanboots.name=Norman Boots
+item.millenaire.rice.name=Rice
+item.millenaire.turmeric.name=Turmeric
+item.millenaire.vegcurry.name=Vegetarian Curry
+item.millenaire.chickenmeat.name=Raw Chicken
+item.millenaire.chickencurry.name=Murgh Curry
+item.millenaire.brickmould.name=Brick Mould
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Plain Timber Frame
+tile.millenaire.timberframecross.name=Cross Timber Frame
+tile.millenaire.wetbrick0.name=Wet Brick
+tile.millenaire.cookedbrick.name=Cooked Brick
+tile.millenaire.mudbrick.name=Mud Brick
+item.millenaire.indianstatue.name=Hindu Statue
+item.millenaire.ciderapple.name=Cider Apple
+item.millenaire.cider.name=Cider
+item.millenaire.summoningwand.name=Wand of Summoning
+item.millenaire.negationwand.name=Wand of Negation
+item.millenaire.parchment_normanvillagers.name=Norman Villagers
+item.millenaire.parchment_normanitems.name=Norman Objects
+item.millenaire.parchment_normanbuildings.name=Norman Buildings
+item.millenaire.parchment_normanfull.name=Complete Normandy Scroll
+item.millenaire.tapestry.name=Norman Tapestry
+item.millenaire.vishnu_amulet.name=Amulet of Vishnu
+item.millenaire.alchemist_amulet.name=Amulet of the Alchemist
+item.millenaire.yggdrasil_amulet.name=Amulet of Yggdrasil
+item.millenaire.skoll_hati_amulet.name=Amulet of Sköll and Hati
+item.millenaire.parchment_villagescroll.name=Village Scroll
+item.millenaire.parchment_indianvillagers.name=Indian Villagers
+item.millenaire.parchment_indianitems.name=Indian Objects
+item.millenaire.parchment_indianbuildings.name=Indian Buildings
+item.millenaire.parchment_indianfull.name=Complete Indian Scroll
+item.millenaire.unknownpowder.name=Unknown Powder
+tile.millenaire.alchemistexplosive.name=Alchemist's Explosive
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Maize
+tile.millenaire.mayangoldblock.name=Gold Ornament
+item.millenaire.mayanstatue.name=Mayan Carving
+item.millenaire.parchment_mayanvillagers.name=Mayan Villagers
+item.millenaire.parchment_mayanitems.name=Mayan Objects
+item.millenaire.parchment_mayanbuildings.name=Mayan Buildings
+item.millenaire.parchment_mayanfull.name=Complete Mayan Scroll
+item.millenaire.mayanmace.name=Obsidian Mace
+item.millenaire.mayanpickaxe.name=Obsidian Pickaxe
+item.millenaire.mayanaxe.name=Obsidian Axe
+item.millenaire.mayanshovel.name=Obsidian Shovel
+item.millenaire.mayanhoe.name=Obsidian Hoe
+item.millenaire.obsidianflake.name=Obsidian Flake
+item.millenaire.cacauhaa.name=Cacauhaa
+
+tile.millenaire.paper_wall.name=Paper Wall
+item.millenaire.udon.name=Udon
+tile.millenaire.thatch.name=Thatch
+
+item.millenaire.parchment_sadhu.name=Book of the Sadhu
+
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Yumi Bow
+item.millenaire.sake.name=Sake
+item.millenaire.ikayaki.name=Ikayaki
+
+item.millenaire.japanesebluelegs.name=Blue ō-yoroi leggings
+item.millenaire.japanesebluehelmet.name=Blue ō-yoroi helmet
+item.millenaire.japaneseblueplate.name=Blue ō-yoroi chestplate
+item.millenaire.japaneseblueboots.name=Blue ō-yoroi boots
+
+item.millenaire.japaneseredlegs.name=Red ō-yoroi leggings
+item.millenaire.japaneseredhelmet.name=Red ō-yoroi helmet
+item.millenaire.japaneseredplate.name=Red ō-yoroi chestplate
+item.millenaire.japaneseredboots.name=Red ō-yoroi boots
+
+item.millenaire.japaneseguardlegs.name=Keiko leggings
+item.millenaire.japaneseguardhelmet.name=Keiko helmet
+item.millenaire.japaneseguardplate.name=Keiko chestplate
+item.millenaire.japaneseguardboots.name=Keiko boots
+
+item.millenaire.parchment_japanesevillagers.name=Japanese Villagers
+item.millenaire.parchment_japaneseitems.name=Japanese Objects
+item.millenaire.parchment_japanesebuildings.name=Japanese Buildings
+item.millenaire.parchment_japanesefull.name=Complete Japanese Scroll
+
+tile.millenaire.silkwormempty.name=Empty Sericulture Block
+tile.millenaire.silkwormfull.name=Sericulture Block
+tile.millenaire.byzantine_tiles.name=Byzantine Tiles
+tile.millenaire.byzantine_tiles_slab.name=Byzantine Tile Slab
+tile.millenaire.byzantine_stone_tiles.name=Byzantine Stone Tile
+item.millenaire.grapes.name=Grapes
+item.millenaire.vine.name=Vines
+item.millenaire.winefancy.name=Malvasia Wine
+item.millenaire.silk.name=Silk
+item.millenaire.byzantineiconsmall.name=Small Byzantine Icon
+item.millenaire.byzantineiconmedium.name=Medium Byzantine Icon
+item.millenaire.byzantineiconlarge.name=Large Byzantine Icon
+item.millenaire.byzantineboots.name=Byzantine Boots
+item.millenaire.byzantinelegs.name=Byzantine Leggings
+item.millenaire.byzantineplate.name=Byzantine Chestplate
+item.millenaire.byzantinehelmet.name=Byzantine Helmet
+item.millenaire.byzantinemace.name=Byzantine Mace
+item.millenaire.feta.name=Feta
+item.millenaire.winebasic.name=Vin
+item.millenaire.clothes_byz_wool.name=Wool Byzantine clothes
+item.millenaire.clothes_byz_silk.name=Silk Byzantine clothes
+
+item.millenaire.souvlaki.name=Souvlaki
+item.millenaire.purse.name=Bourse à deniers
+
+item.millenaire.mayanquestcrown.name=Mayan Crown
+
+tile.millenaire.pathdirt.name=Dirt path
+tile.millenaire.pathgravel.name=Gravel path
+tile.millenaire.pathslabs.name=Slabs path
+tile.millenaire.pathsandstone.name=Sandstone slabs path
+tile.millenaire.pathochretiles.name=Ochre slabs path
+tile.millenaire.pathgravelslabs.name=Slabs and gravel path
+
+tile.millenaire.pathdirt_slab.name=Dirt path
+tile.millenaire.pathgravel_slab.name=Gravel path
+tile.millenaire.pathslabs_slab.name=Slabs path
+tile.millenaire.pathsandstone_slab.name=Sandstone slabs path
+tile.millenaire.pathochretiles_slab.name=Ochre slabs path
+tile.millenaire.pathgravelslabs_slab.name=Slabs and gravel path
