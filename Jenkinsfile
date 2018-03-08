@@ -15,7 +15,8 @@ pipeline {
         stage('Download Mods') {
             steps {
                 bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-                       java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods'''
+                       java -jar "%modpackdownloader%" -manifest common/base/mods.json -folder common/base/mods
+                       java -jar "%modpackdownloader%" -manifest client/base/mods.json -folder client/base/mods'''
             }
         }
         stage('Build Modpack') {
