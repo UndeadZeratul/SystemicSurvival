@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "fileID": 2486523,
+      "projectID": 275300,
+      "name": "albedo"
+    },
+    {
+      "fileID": 2496585,
+      "projectID": 248787,
+      "name": "appleskin"
+    },
+    {
+      "fileID": 2510606,
+      "projectID": 238534,
+      "name": "armor-chroma"
+    },
+    {
+      "fileID": 2478147,
+      "projectID": 228529,
+      "name": "better-foliage"
+    },
+    {
+      "fileID": 2481852,
+      "projectID": 278406,
+      "name": "better-placement"
+    },
+    {
+      "fileID": 2481601,
+      "projectID": 224223,
+      "name": "better-title-screen"
+    },
+    {
+      "fileID": 2483393,
+      "projectID": 229876,
+      "name": "betterfps"
+    },
+    {
+      "fileID": 2460821,
+      "projectID": 268324,
+      "name": "blur"
+    },
+    {
+      "fileID": 2482584,
+      "projectID": 226406,
+      "name": "custom-main-menu"
+    },
+    {
+      "fileID": 2536945,
+      "projectID": 238891,
+      "name": "dynamic-surroundings"
+    },
+    {
+      "fileID": 2491100,
+      "projectID": 255389,
+      "name": "enhancedvisuals"
+    },
+    {
+      "fileID": 2530257,
+      "projectID": 254441,
+      "name": "fancy-block-particles"
+    },
+    {
+      "fileID": 2491161,
+      "projectID": 237701,
+      "name": "reauth"
+    },
+    {
+      "fileID": 2537363,
+      "projectID": 286352,
+      "name": "smoothwater"
+    },
+    {
+      "fileID": 2445236,
+      "projectID": 222789,
+      "name": "sound-filters"
+    },
+    {
+      "fileID": 2521789,
+      "projectID": 244147,
+      "name": "stellar-api"
+    },
+    {
+      "fileID": 2526067,
+      "projectID": 236078,
+      "name": "stellar-sky"
+    },
+    {
+      "fileID": 2463895,
+      "projectID": 243639,
+      "name": "truetype-font-replacement"
+    },
+    {
+      "fileID": 2537029,
+      "projectID": 282648,
+      "name": "weissalbedo"
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "https://media.forgecdn.net/files/2535/189/Dimdoors-3.0.7-b-1.233.jar",
+      "name": "dimensionaldoors"
+    },
+    {
+      "url": "https://media.forgecdn.net/files/2533/991/Pam%27s+HarvestCraft+1.12.2q.jar",
+      "name": "pams-harvestcraft"
+    }
+  ]
+}
