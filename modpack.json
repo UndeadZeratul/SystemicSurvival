@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.12.2",
+    "version": "${mcVersion}",
     "modLoaders": [
       {
         "id": "forge-14.23.2.2624",
@@ -17,5 +17,5 @@
   "manifestVersion": 1,
   "name": "${project.name}",
   "version": "${project.version}",
-  "author": "Undead_Zeratul"
+  "author": "${packAuthor}"
 }

@@ -8,6 +8,7 @@
     <url>http://github.com/UndeadZeratul/SystemicSurvival</url>
     <packaging>pom</packaging>
     <properties>
+        <packAuthor>Undead_Zeratul</packAuthor>
         <mcVersion>1.12.2</mcVersion>
         <build.number>SNAPSHOT</build.number>
         <launcher.name.dev/>
