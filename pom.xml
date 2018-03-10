@@ -188,7 +188,7 @@
             </build>
         </profile>
         <profile>
-            <id>client-ftb</id>
+            <id>client-curse</id>
             <activation>
                 <property>
                     <name>profile.master</name>
@@ -209,53 +209,14 @@
                         </dependencies>
                         <executions>
                             <execution>
-                                <id>client-ftb</id>
+                                <id>client-curse</id>
                                 <phase>package</phase>
                                 <goals>
                                     <goal>single</goal>
                                 </goals>
                                 <configuration>
                                     <descriptorRefs>
-                                        <descriptorRef>assembly-client-ftb</descriptorRef>
-                                    </descriptorRefs>
-                                </configuration>
-                            </execution>
-                        </executions>
-                        <configuration/>
-                    </plugin>
-                </plugins>
-            </build>
-        </profile>
-        <profile>
-            <id>client-technic</id>
-            <activation>
-                <property>
-                    <name>profile.master</name>
-                </property>
-            </activation>
-            <build>
-                <plugins>
-                    <plugin>
-                        <groupId>org.apache.maven.plugins</groupId>
-                        <artifactId>maven-assembly-plugin</artifactId>
-                        <version>${maven-assembly-plugin.version}</version>
-                        <dependencies>
-                            <dependency>
-                                <groupId>com.nincraft</groupId>
-                                <artifactId>modpack-assembly</artifactId>
-                                <version>${modpack.archetype.version}</version>
-                            </dependency>
-                        </dependencies>
-                        <executions>
-                            <execution>
-                                <id>client-technic</id>
-                                <phase>package</phase>
-                                <goals>
-                                    <goal>single</goal>
-                                </goals>
-                                <configuration>
-                                    <descriptorRefs>
-                                        <descriptorRef>assembly-client-technic</descriptorRef>
+                                        <descriptorRef>assembly-client-curse</descriptorRef>
                                     </descriptorRefs>
                                 </configuration>
                             </execution>

@@ -1,7 +1,7 @@
 #################
 ## Custom
 #################
-mods/*.jar
+mods/
 target/
 asm/
 cache/
@@ -21,6 +21,7 @@ screenshots/
 **/loaders/*.jar
 **/mods/*.jar
 modpackdownloader*.jar
+manifest.json
 
 *.lck
 *.rar
