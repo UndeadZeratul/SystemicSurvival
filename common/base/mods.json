@@ -436,7 +436,8 @@
   "thirdParty": [
     {
       "url": "https://media.forgecdn.net/files/2535/189/Dimdoors-3.0.7-b-1.233.jar",
-      "name": "dimensionaldoors"
+      "name": "dimensionaldoors",
+      "folder": "common/base/mods/thirdParty"
     }
   ]
 }
