@@ -25,6 +25,11 @@ pipeline {
                 script {
                     if(env.BRANCH_NAME.contains("release") || env.BRANCH_NAME.contains("master")) {
                          profileName = "master"
+                         bat '''for /f "delims=" %%i IN ('dir *.jar /b') DO set modpackdownloader=%%i
+                                java -jar "%modpackdownloader%" -mergeManifests ^
+                                     -manifest modpack.json ^
+                                     -manifest common/base/mods.json ^
+                                     -manifest client/base/mods.json ^'''
                     }
                     else {
                          profileName = "develop"
