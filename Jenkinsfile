@@ -5,6 +5,7 @@ pipeline {
             steps {
                 fileOperations([fileDeleteOperation(excludes: '', includes: 'ModpackDownloader*.jar')])
                 fileOperations([fileDeleteOperation(excludes: '', includes: '*/mods/*.jar')])
+                fileOperations([fileDeleteOperation(excludes: '', includes: '*/loaders/*.jar')])
             }
         }
         stage('Copy Modpack Downloader') {
