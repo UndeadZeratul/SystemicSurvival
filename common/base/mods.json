@@ -293,6 +293,11 @@
       "name": "ore-stone-variants"
     },
     {
+      "fileID": 2533991,
+      "projectID": 221857,
+      "name": "pams-harvestcraft"
+    },
+    {
       "fileID": 2537358,
       "projectID": 289240,
       "name": "paragliders"
@@ -432,10 +437,6 @@
     {
       "url": "https://media.forgecdn.net/files/2535/189/Dimdoors-3.0.7-b-1.233.jar",
       "name": "dimensionaldoors"
-    },
-    {
-      "url": "https://media.forgecdn.net/files/2533/991/Pam%27s+HarvestCraft+1.12.2q.jar",
-      "name": "pams-harvestcraft"
     }
   ]
 }
