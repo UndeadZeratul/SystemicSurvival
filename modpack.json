@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "${mcVersion}",
+    "version": "1.12.2",
     "modLoaders": [
       {
         "id": "forge-14.23.2.2624",
