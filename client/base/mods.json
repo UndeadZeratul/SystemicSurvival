@@ -71,6 +71,11 @@
       "name": "jei-integration"
     },
     {
+      "fileID": 2486868,
+      "projectID": 238747,
+      "name": "mod-name-tooltip"
+    },
+    {
       "fileID": 2491161,
       "projectID": 237701,
       "name": "reauth"
