@@ -165,7 +165,8 @@
     {
       "fileID": 2482467,
       "projectID": 252414,
-      "name": "harvest-tweaks"
+      "name": "harvest-tweaks",
+      "skipDownload": true
     },
     {
       "fileID": 2454832,
@@ -386,6 +387,11 @@
       "fileID": 2518222,
       "projectID": 222880,
       "name": "thermal-foundation"
+    },
+    {
+      "fileID": 2516432,
+      "projectID": 266550,
+      "name": "tool-progression"
     },
     {
       "fileID": 2536995,
