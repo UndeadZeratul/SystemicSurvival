@@ -1,0 +1,202 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "geolosys:geolosys.cluster.aluminum",
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum",
+        "thermalfoundation:tile.thermalfoundation.ore.aluminum"
+      ],
+      "output": [
+        "agricraft:agri_nugget:8",
+        "immersiveengineering:metal:21",
+        "oreberries:aluminum_nugget:0",
+        "primal:aluminum_nugget:0",
+        "thermalfoundation:material:196"
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "geolosys:geolosys.cluster.copper",
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "metallurgy:tile.metallurgy.copper_ore",
+        "railcraft:tile.railcraft.ore.metal.copper",
+        "thermalfoundation:tile.thermalfoundation.ore.copper"
+      ],
+      "output": [
+        "agricraft:agri_nugget:4",
+        "immersiveengineering:metal:20",
+        "metallurgy:copper_nugget:0",
+        "primal:copper_nugget:0",
+        "railcraft:nugget:1",
+        "thermalfoundation:material:192"
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "creepingnether:tile.nethergold",
+        "geolosys:geolosys.cluster.gold",
+        "minecraft:tile.oreGold"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ]
+    },
+    "oreIridium": {
+      "slagColor": "d5d4e7",
+      "langKey": [
+        "thermalfoundation:tile.thermalfoundation.ore.iridium"
+      ],
+      "output": [
+        "thermalfoundation:material:199"
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "creepingnether:tile.netheriron",
+        "geolosys:geolosys.cluster.iron",
+        "minecraft:tile.oreIron"
+      ],
+      "output": [
+        "agricraft:agri_nugget:3",
+        "immersiveengineering:metal:29",
+        "minecraft:iron_nugget:0"
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "geolosys:geolosys.cluster.lead",
+        "immersiveengineering:tile.immersiveengineering.ore.lead",
+        "railcraft:tile.railcraft.ore.metal.lead",
+        "thermalfoundation:tile.thermalfoundation.ore.lead"
+      ],
+      "output": [
+        "agricraft:agri_nugget:6",
+        "immersiveengineering:metal:22",
+        "primal:lead_nugget:0",
+        "railcraft:nugget:3",
+        "thermalfoundation:material:195"
+      ]
+    },
+    "oreMithril": {
+      "slagColor": "9cf9ff",
+      "langKey": [
+        "metallurgy:tile.metallurgy.mithril_ore",
+        "thermalfoundation:tile.thermalfoundation.ore.mithril"
+      ],
+      "output": [
+        "metallurgy:mithril_nugget:0",
+        "thermalfoundation:material:200"
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "geolosys:geolosys.cluster.nickel",
+        "immersiveengineering:tile.immersiveengineering.ore.nickel",
+        "railcraft:tile.railcraft.ore.metal.nickel",
+        "thermalfoundation:tile.thermalfoundation.ore.nickel"
+      ],
+      "output": [
+        "agricraft:agri_nugget:9",
+        "immersiveengineering:metal:24",
+        "primal:nickel_nugget:0",
+        "railcraft:nugget:6",
+        "thermalfoundation:material:197"
+      ]
+    },
+    "oreOsmium": {
+      "slagColor": "9babc4",
+      "langKey": [
+        "geolosys:geolosys.cluster.osmium",
+        "metallurgy:tile.metallurgy.osmium_ore"
+      ],
+      "output": [
+        "agricraft:agri_nugget:11",
+        "metallurgy:osmium_nugget:0"
+      ]
+    },
+    "orePlatinum": {
+      "slagColor": "55f3ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.platinum",
+        "metallurgy:tile.metallurgy.platinum_ore",
+        "thermalfoundation:tile.thermalfoundation.ore.platinum"
+      ],
+      "output": [
+        "agricraft:agri_nugget:10",
+        "metallurgy:platinum_nugget:0",
+        "primal:platinum_nugget:0",
+        "thermalfoundation:material:198"
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "geolosys:geolosys.cluster.silver",
+        "immersiveengineering:tile.immersiveengineering.ore.silver",
+        "metallurgy:tile.metallurgy.silver_ore",
+        "railcraft:tile.railcraft.ore.metal.silver",
+        "thermalfoundation:tile.thermalfoundation.ore.silver"
+      ],
+      "output": [
+        "agricraft:agri_nugget:7",
+        "immersiveengineering:metal:23",
+        "metallurgy:silver_nugget:0",
+        "primal:silver_nugget:0",
+        "railcraft:nugget:4",
+        "thermalfoundation:material:194"
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.tin",
+        "metallurgy:tile.metallurgy.tin_ore",
+        "railcraft:tile.railcraft.ore.metal.tin",
+        "thermalfoundation:tile.thermalfoundation.ore.tin"
+      ],
+      "output": [
+        "agricraft:agri_nugget:5",
+        "metallurgy:tin_nugget:0",
+        "primal:tin_nugget:0",
+        "railcraft:nugget:2",
+        "thermalfoundation:material:193"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "geolosys:geolosys.cluster.uranium",
+        "immersiveengineering:tile.immersiveengineering.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
+      ]
+    }
+  }
+}

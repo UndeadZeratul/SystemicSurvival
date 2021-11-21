@@ -1,7 +1,7 @@
 {
   "path": "mod_immersiveengineering/hemp_plant.json",
   "enabled": true,
-  "id": "hemp_plant",
+  "id": "immersiveengineering:hemp_plant",
   "plant_name": "Hemp",
   "seed_name": "Hemp Seeds",
   "seed_items": [
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -63,8 +65,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",

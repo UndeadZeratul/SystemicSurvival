@@ -1,114 +1,337 @@
 {
-  "files": [
+  "installedAddons": [
     {
-      "fileID": 2486523,
-      "projectID": 275300,
-      "name": "albedo"
+      "addonID": 275300,
+      "installedFile": {
+        "displayName": "albedo-1.12.2-1.1.0.jar",
+        "id": 2714505,
+        "skipDownload": true,
+        "fileName": "albedo-1.12.2-1.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2714/505/albedo-1.12.2-1.1.0.jar"
+      }
     },
     {
-      "fileID": 2496585,
-      "projectID": 248787,
-      "name": "appleskin"
+      "addonID": 293082,
+      "installedFile": {
+        "displayName": "albedocompat-1.0.jar",
+        "id": 2557401,
+        "skipDownload": true,
+        "fileName": "albedocompat-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2557/401/albedocompat-1.0.jar"
+      }
     },
     {
-      "fileID": 2510606,
-      "projectID": 238534,
-      "name": "armor-chroma"
+      "addonID": 248787,
+      "installedFile": {
+        "displayName": "AppleSkin-mc1.12-1.0.14.jar",
+        "id": 2987247,
+        "fileName": "AppleSkin-mc1.12-1.0.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+      }
     },
     {
-      "fileID": 2478147,
-      "projectID": 228529,
-      "name": "better-foliage"
+      "addonID": 287443,
+      "installedFile": {
+        "displayName": "Better Animal Models 1.12.2-5.3.0",
+        "id": 2882509,
+        "skipDownload": true,
+        "fileName": "betteranimals-1.12.2-5.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2882/509/betteranimals-1.12.2-5.3.0.jar"
+      }
     },
     {
-      "fileID": 2481852,
-      "projectID": 278406,
-      "name": "better-placement"
+      "addonID": 228529,
+      "installedFile": {
+        "displayName": "BetterFoliage-MC1.12-2.3.1.jar",
+        "id": 2852872,
+        "skipDownload": true,
+        "fileName": "BetterFoliage-MC1.12-2.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2852/872/BetterFoliage-MC1.12-2.3.1.jar"
+      }
     },
     {
-      "fileID": 2481601,
-      "projectID": 224223,
-      "name": "better-title-screen"
+      "addonID": 229876,
+      "installedFile": {
+        "displayName": "v1.4.8",
+        "id": 2483393,
+        "fileName": "BetterFps-1.4.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
+      }
     },
     {
-      "fileID": 2483393,
-      "projectID": 229876,
-      "name": "betterfps"
+      "addonID": 278406,
+      "installedFile": {
+        "displayName": "Better Placement 1.0.0",
+        "id": 2481852,
+        "skipDownload": true,
+        "fileName": "BetterPlacement-1.0.0-1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2481/852/BetterPlacement-1.0.0-1.jar"
+      }
     },
     {
-      "fileID": 2509046,
-      "projectID": 244181,
-      "name": "block-drops-jei-addon"
+      "addonID": 322948,
+      "installedFile": {
+        "displayName": "betterportals-0.3.7.7.jar",
+        "id": 2883633,
+        "skipDownload": true,
+        "fileName": "betterportals-0.3.7.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2883/633/betterportals-0.3.7.7.jar"
+      }
     },
     {
-      "fileID": 2460821,
-      "projectID": 268324,
-      "name": "blur"
+      "addonID": 268324,
+      "installedFile": {
+        "displayName": "Blur 1.0.4",
+        "id": 2460821,
+        "fileName": "Blur-1.0.4-14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2460/821/Blur-1.0.4-14.jar"
+      }
     },
     {
-      "fileID": 2482584,
-      "projectID": 226406,
-      "name": "custom-main-menu"
+      "addonID": 244447,
+      "installedFile": {
+        "displayName": "Camouflaged Creepers V1.7.1",
+        "id": 2823903,
+        "fileName": "camouflagedcreepers-1.7.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2823/903/camouflagedcreepers-1.7.1.jar"
+      }
     },
     {
-      "fileID": 2536945,
-      "projectID": 238891,
-      "name": "dynamic-surroundings"
+      "addonID": 250398,
+      "installedFile": {
+        "displayName": "Controlling-3.0.10",
+        "id": 3025548,
+        "fileName": "Controlling-3.0.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3025/548/Controlling-3.0.10.jar"
+      }
     },
     {
-      "fileID": 2491100,
-      "projectID": 255389,
-      "name": "enhancedvisuals"
+      "addonID": 257814,
+      "installedFile": {
+        "displayName": "CreativeCore_v1.10.27_mc1.12.2.jar",
+        "id": 3069124,
+        "fileName": "CreativeCore_v1.10.27_mc1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3069/124/CreativeCore_v1.10.27_mc1.12.2.jar"
+      }
     },
     {
-      "fileID": 2530257,
-      "projectID": 254441,
-      "name": "fancy-block-particles"
+      "addonID": 226406,
+      "installedFile": {
+        "displayName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+        "id": 2857869,
+        "fileName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar"
+      }
     },
     {
-      "fileID": 2491927,
-      "projectID": 265917,
-      "name": "jei-integration"
+      "addonID": 232131,
+      "installedFile": {
+        "displayName": "DefaultOptions_1.12.2-9.2.8.jar",
+        "id": 2624732,
+        "fileName": "DefaultOptions_1.12.2-9.2.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar"
+      }
     },
     {
-      "fileID": 2486868,
-      "projectID": 238747,
-      "name": "mod-name-tooltip"
+      "addonID": 227874,
+      "installedFile": {
+        "displayName": "Dynamic Lights",
+        "id": 2563244,
+        "fileName": "DynamicLights-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2563/244/DynamicLights-1.12.2.jar"
+      }
     },
     {
-      "fileID": 2491161,
-      "projectID": 237701,
-      "name": "reauth"
+      "addonID": 238891,
+      "installedFile": {
+        "displayName": "DynamicSurroundings-1.12.2-3.6.1.0.jar",
+        "id": 2922489,
+        "fileName": "DynamicSurroundings-1.12.2-3.6.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2922/489/DynamicSurroundings-1.12.2-3.6.1.0.jar"
+      }
     },
     {
-      "fileID": 2537363,
-      "projectID": 286352,
-      "name": "smoothwater"
+      "addonID": 255389,
+      "installedFile": {
+        "displayName": "EnhancedVisuals_v1.3.18_mc1.12.2.jar",
+        "id": 3047153,
+        "fileName": "EnhancedVisuals_v1.3.18_mc1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3047/153/EnhancedVisuals_v1.3.18_mc1.12.2.jar"
+      }
     },
     {
-      "fileID": 2445236,
-      "projectID": 222789,
-      "name": "sound-filters"
+      "addonID": 254441,
+      "installedFile": {
+        "displayName": "FBP-2.4.1",
+        "id": 2632107,
+        "fileName": "FancyBlockParticles-1.12.x-2.4.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2632/107/FancyBlockParticles-1.12.x-2.4.1.jar"
+      }
     },
     {
-      "fileID": 2521789,
-      "projectID": 244147,
-      "name": "stellar-api"
+      "addonID": 253449,
+      "installedFile": {
+        "displayName": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "id": 2568751,
+        "fileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
+      }
     },
     {
-      "fileID": 2526067,
-      "projectID": 236078,
-      "name": "stellar-sky"
+      "addonID": 273725,
+      "installedFile": {
+        "displayName": "1.12 - Beta 0.5.4",
+        "id": 2875133,
+        "fileName": "IgniteHUD-b0.5.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2875/133/IgniteHUD-b0.5.4.jar"
+      }
     },
     {
-      "fileID": 2463895,
-      "projectID": 243639,
-      "name": "truetype-font-replacement"
+      "addonID": 223094,
+      "installedFile": {
+        "displayName": "Inventory Tweaks 1.64+dev.151",
+        "id": 2923460,
+        "fileName": "InventoryTweaks-1.64+dev.151.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2923/460/InventoryTweaks-1.64+dev.151.jar"
+      }
     },
     {
-      "fileID": 2537029,
-      "projectID": 282648,
-      "name": "weissalbedo"
+      "addonID": 275356,
+      "installedFile": {
+        "displayName": "justthetips-1.12-1.0.1.1.jar",
+        "id": 2468740,
+        "fileName": "justthetips-1.12-1.0.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2468/740/justthetips-1.12-1.0.1.1.jar"
+      }
+    },
+    {
+      "addonID": 287471,
+      "installedFile": {
+        "displayName": "MAGE 0.2.4 (1.12.2)",
+        "id": 2625223,
+        "skipDownload": true,
+        "fileName": "MAGE-0.2.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2625/223/MAGE-0.2.4.jar"
+      }
+    },
+    {
+      "addonID": 229067,
+      "installedFile": {
+        "displayName": "MobDismemberment-1.12.2-7.0.0.jar",
+        "id": 2487081,
+        "fileName": "MobDismemberment-1.12.2-7.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2487/81/MobDismemberment-1.12.2-7.0.0.jar"
+      }
+    },
+    {
+      "addonID": 60089,
+      "installedFile": {
+        "displayName": "[1.12.2] Mouse Tweaks 2.10",
+        "id": 2671937,
+        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 244940,
+      "installedFile": {
+        "displayName": "MPUtils v1.5.7 (MC1.12)",
+        "id": 2685162,
+        "fileName": "MPUtils-1.12.2-1.5.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2685/162/MPUtils-1.12.2-1.5.7.jar"
+      }
+    },
+    {
+      "addonID": 284904,
+      "installedFile": {
+        "displayName": "noRecipeBook_v1.2.2formc1.12.2.jar",
+        "id": 2568865,
+        "fileName": "noRecipeBook_v1.2.2formc1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2568/865/noRecipeBook_v1.2.2formc1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 237701,
+      "installedFile": {
+        "displayName": "ReAuth-3.6.0 1.12",
+        "id": 2560638,
+        "fileName": "reauth-3.6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2560/638/reauth-3.6.0.jar"
+      }
+    },
+    {
+      "addonID": 270539,
+      "installedFile": {
+        "displayName": "SmartHUD 2.0.2",
+        "id": 2553947,
+        "fileName": "smarthud-2.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2553/947/smarthud-2.0.2.jar"
+      }
+    },
+    {
+      "addonID": 285742,
+      "installedFile": {
+        "displayName": "SmoothFont-mc1.12.2-2.1.2.jar",
+        "id": 2949817,
+        "skipDownload": true,
+        "fileName": "SmoothFont-mc1.12.2-2.1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2949/817/SmoothFont-mc1.12.2-2.1.2.jar"
+      }
+    },
+    {
+      "addonID": 222789,
+      "installedFile": {
+        "displayName": "SoundFilters-0.12.1_for_1.12.jar",
+        "id": 3025806,
+        "fileName": "SoundFilters-0.12.1_for_1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3025/806/SoundFilters-0.12.1_for_1.12.jar"
+      }
+    },
+    {
+      "addonID": 244147,
+      "installedFile": {
+        "displayName": "Stellar API 1.12.2-0.4.2.9 [1.12.x]",
+        "id": 2568537,
+        "fileName": "Stellar API-1.12.2-0.4.2.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2568/537/Stellar API-1.12.2-0.4.2.9.jar"
+      }
+    },
+    {
+      "addonID": 236078,
+      "installedFile": {
+        "displayName": "Stellar Sky v1.12.2-0.5.3.2 [1.12.x] (Stellar API v1.12.2-0.4.2.6+)",
+        "id": 2580020,
+        "fileName": "Stellar Sky-1.12.2-0.5.3.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2580/20/Stellar Sky-1.12.2-0.5.3.2.jar"
+      }
+    },
+    {
+      "addonID": 239236,
+      "installedFile": {
+        "displayName": "StepUp-1.0.2-mc1.10-1.12.jar",
+        "id": 2560363,
+        "fileName": "StepUp-1.0.2-mc1.10-1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2560/363/StepUp-1.0.2-mc1.10-1.12.jar"
+      }
+    },
+    {
+      "addonID": 271740,
+      "installedFile": {
+        "displayName": "Toast Control-1.12.2-1.8.1.jar",
+        "id": 2707353,
+        "fileName": "Toast Control-1.12.2-1.8.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2707/353/Toast Control-1.12.2-1.8.1.jar"
+      }
+    },
+    {
+      "addonID": 282648,
+      "installedFile": {
+        "displayName": "WeissAlbedo-1.12.2-0.0.14a.jar",
+        "id": 2626747,
+        "skipDownload": true,
+        "fileName": "WeissAlbedo-1.12.2-0.0.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2626/747/WeissAlbedo-1.12.2-0.0.14.jar"
+      }
     }
   ]
 }

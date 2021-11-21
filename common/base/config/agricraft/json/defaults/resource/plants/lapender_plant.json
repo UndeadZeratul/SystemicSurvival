@@ -1,7 +1,7 @@
 {
   "path": "resource/plants/lapender_plant.json",
   "enabled": true,
-  "id": "lapender_plant",
+  "id": "resource:lapender_plant",
   "plant_name": "Lapender",
   "seed_name": "Lapender Seeds",
   "seed_items": [],
@@ -51,7 +51,7 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "minecraft:lapis_ore",
+        "item": "oredict:oreLapis",
         "meta": 0,
         "tags": "",
         "ignoreMeta": true,

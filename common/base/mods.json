@@ -1,454 +1,1893 @@
 {
-  "files": [
-    {
-      "fileID": 2520541,
-      "projectID": 255308,
-      "name": "aether-legacy"
-    },
-    {
-      "fileID": 2537268,
-      "projectID": 225635,
-      "name": "agricraft"
-    },
-    {
-      "fileID": 2532174,
-      "projectID": 227795,
-      "name": "antique-atlas"
-    },
-    {
-      "fileID": 2530884,
-      "projectID": 224472,
-      "name": "applecore"
-    },
-    {
-      "fileID": 2497562,
-      "projectID": 250363,
-      "name": "autoreglib"
-    },
-    {
-      "fileID": 2532663,
-      "projectID": 282963,
-      "name": "bed-patch"
-    },
-    {
-      "fileID": 2537804,
-      "projectID": 220318,
-      "name": "biomes-o-plenty"
-    },
-    {
-      "fileID": 2524304,
-      "projectID": 284071,
-      "name": "block-drops-tweaker"
-    },
-    {
-      "fileID": 2520532,
-      "projectID": 269167,
-      "name": "bottled-milk"
-    },
-    {
-      "fileID": 2481938,
-      "projectID": 224713,
-      "name": "bow-infinity-fix"
-    },
-    {
-      "fileID": 2509995,
-      "projectID": 244447,
-      "name": "camouflaged-creepers",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2489278,
-      "projectID": 250617,
-      "name": "ceramics"
-    },
-    {
-      "fileID": 2534808,
-      "projectID": 287664,
-      "name": "charset-crafting"
-    },
-    {
-      "fileID": 2536968,
-      "projectID": 284523,
-      "name": "charset-lib"
-    },
-    {
-      "fileID": 2536970,
-      "projectID": 285363,
-      "name": "charset-tweaks"
-    },
-    {
-      "fileID": 2513671,
-      "projectID": 271384,
-      "name": "cofh-world"
-    },
-    {
-      "fileID": 2519297,
-      "projectID": 69162,
-      "name": "cofhcore"
-    },
-    {
-      "fileID": 2534172,
-      "projectID": 276951,
-      "name": "comforts"
-    },
-    {
-      "fileID": 2511880,
-      "projectID": 253729,
-      "name": "compatlayer"
-    },
-    {
-      "fileID": 2525823,
-      "projectID": 222908,
-      "name": "cookiecore"
-    },
-    {
-      "fileID": 2515876,
-      "projectID": 237749,
-      "name": "coroutil"
-    },
-    {
-      "fileID": 2504229,
-      "projectID": 271605,
-      "name": "corpse-complex"
-    },
-    {
-      "fileID": 2535188,
-      "projectID": 239197,
-      "name": "crafttweaker"
-    },
-    {
-      "fileID": 2499419,
-      "projectID": 273502,
-      "name": "defiled-lands"
-    },
-    {
-      "fileID": 2480877,
-      "projectID": 272835,
-      "name": "dooglamoo-worlds"
-    },
-    {
-      "fileID": 2529840,
-      "projectID": 240968,
-      "name": "drcyanos-lootable-bodies"
-    },
-    {
-      "fileID": 2537698,
-      "projectID": 289529,
-      "name": "dtbop"
-    },
-    {
-      "fileID": 2537689,
-      "projectID": 252818,
-      "name": "dynamictrees"
-    },
-    {
-      "fileID": 2504072,
-      "projectID": 267557,
-      "name": "erosion"
-    },
-    {
-      "fileID": 2510173,
-      "projectID": 283390,
-      "name": "eternal-sleep",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2537800,
-      "projectID": 256909,
-      "name": "felling"
-    },
-    {
-      "fileID": 2499443,
-      "projectID": 225957,
-      "name": "hardcore-darkness"
-    },
-    {
-      "fileID": 2482467,
-      "projectID": 252414,
-      "name": "harvest-tweaks",
-      "skipDownload": true
-    },
-    {
-      "fileID": 2454832,
-      "projectID": 72210,
-      "name": "hopper-ducts"
-    },
-    {
-      "fileID": 2536711,
-      "projectID": 227706,
-      "name": "horizontal-glass-panes"
-    },
-    {
-      "fileID": 2534914,
-      "projectID": 283807,
-      "name": "ignition-foundry"
-    },
-    {
-      "fileID": 2536352,
-      "projectID": 285690,
-      "name": "iguanatweaks-reborn"
-    },
-    {
-      "fileID": 2508712,
-      "projectID": 265751,
-      "name": "improved-extraction"
-    },
-    {
-      "fileID": 2537265,
-      "projectID": 251396,
-      "name": "infinitylib"
-    },
-    {
-      "fileID": 2529667,
-      "projectID": 284007,
-      "name": "inspirations"
-    },
-    {
-      "fileID": 2536307,
-      "projectID": 238222,
-      "name": "jei"
-    },
-    {
-      "fileID": 2448283,
-      "projectID": 235261,
-      "name": "just-a-few-fish"
-    },
-    {
-      "fileID": 2500678,
-      "projectID": 240630,
-      "name": "just-enough-resources-jer"
-    },
-    {
-      "fileID": 2533126,
-      "projectID": 255257,
-      "name": "loottweaker"
-    },
-    {
-      "fileID": 2526155,
-      "projectID": 284745,
-      "name": "magic-feather"
-    },
-    {
-      "fileID": 2474052,
-      "projectID": 74924,
-      "name": "mantle"
-    },
-    {
-      "fileID": 2535637,
-      "projectID": 233105,
-      "name": "mcjtylib"
-    },
-    {
-      "fileID": 2537919,
-      "projectID": 270871,
-      "name": "millenaire"
-    },
-    {
-      "fileID": 2535833,
-      "projectID": 264706,
-      "name": "minecart-ai-fix"
-    },
-    {
-      "fileID": 2531342,
-      "projectID": 220954,
-      "name": "modtweaker"
-    },
-    {
-      "fileID": 2531404,
-      "projectID": 244940,
-      "name": "mputils"
-    },
-    {
-      "fileID": 2531406,
-      "projectID": 245889,
-      "name": "mputils-basic-tools"
-    },
-    {
-      "fileID": 2537765,
-      "projectID": 253211,
-      "name": "mtlib"
-    },
-    {
-      "fileID": 2519727,
-      "projectID": 282745,
-      "name": "natural-nether-portals"
-    },
-    {
-      "fileID": 2496631,
-      "projectID": 268888,
-      "name": "nether-chest"
-    },
-    {
-      "fileID": 2519723,
-      "projectID": 278084,
-      "name": "nether-gold-ore"
-    },
-    {
-      "fileID": 2520136,
-      "projectID": 250359,
-      "name": "netherbound"
-    },
-    {
-      "fileID": 2506216,
-      "projectID": 248039,
-      "name": "netherex"
-    },
-    {
-      "fileID": 2537142,
-      "projectID": 287538,
-      "name": "ore-stone-variants"
-    },
-    {
-      "fileID": 2533991,
-      "projectID": 221857,
-      "name": "pams-harvestcraft"
-    },
-    {
-      "fileID": 2537358,
-      "projectID": 289240,
-      "name": "paragliders"
-    },
-    {
-      "fileID": 2537494,
-      "projectID": 283644,
-      "name": "placebo"
-    },
-    {
-      "fileID": 2537291,
-      "projectID": 247907,
-      "name": "primalcore"
-    },
-    {
-      "fileID": 2534684,
-      "projectID": 282415,
-      "name": "primitive-mobs"
-    },
-    {
-      "fileID": 2537807,
-      "projectID": 289544,
-      "name": "prospectus"
-    },
-    {
-      "fileID": 2525145,
-      "projectID": 261220,
-      "name": "pumpkin-carving"
-    },
-    {
-      "fileID": 2523813,
-      "projectID": 243121,
-      "name": "quark"
-    },
-    {
-      "fileID": 2448933,
-      "projectID": 270789,
-      "name": "redstone-flux"
-    },
-    {
-      "fileID": 2477676,
-      "projectID": 67508,
-      "name": "redstone-paste"
-    },
-    {
-      "fileID": 2477566,
-      "projectID": 226447,
-      "name": "resource-loader"
-    },
-    {
-      "fileID": 2537706,
-      "projectID": 256141,
-      "name": "rustic"
-    },
-    {
-      "fileID": 2528226,
-      "projectID": 234840,
-      "name": "saltymod"
-    },
-    {
-      "fileID": 2524919,
-      "projectID": 282988,
-      "name": "scavenge"
-    },
-    {
-      "fileID": 2468040,
-      "projectID": 272781,
-      "name": "slurp"
-    },
-    {
-      "fileID": 2510275,
-      "projectID": 253056,
-      "name": "storage-boats-mod"
-    },
-    {
-      "fileID": 2509208,
-      "projectID": 268104,
-      "name": "the-creeping-nether"
-    },
-    {
-      "fileID": 2518222,
-      "projectID": 222880,
-      "name": "thermal-foundation"
-    },
-    {
-      "fileID": 2516432,
-      "projectID": 266550,
-      "name": "tool-progression"
-    },
-    {
-      "fileID": 2536995,
-      "projectID": 246391,
-      "name": "tough-as-nails"
-    },
-    {
-      "fileID": 2488657,
-      "projectID": 245028,
-      "name": "tumbleweed"
-    },
-    {
-      "fileID": 2537840,
-      "projectID": 244258,
-      "name": "unidict"
-    },
-    {
-      "fileID": 2530596,
-      "projectID": 272637,
-      "name": "vanillatweaks"
-    },
-    {
-      "fileID": 2537797,
-      "projectID": 273605,
-      "name": "veining"
-    },
-    {
-      "fileID": 2441265,
-      "projectID": 260621,
-      "name": "villager-trade-tables"
-    },
-    {
-      "fileID": 2534271,
-      "projectID": 253043,
-      "name": "wanionlib"
-    },
-    {
-      "fileID": 2525511,
-      "projectID": 257572,
-      "name": "wearable-backpacks"
-    },
-    {
-      "fileID": 2515877,
-      "projectID": 237746,
-      "name": "weather-storms-tornadoes"
-    },
-    {
-      "fileID": 2456802,
-      "projectID": 269377,
-      "name": "wopper"
+  "installedAddons": [
+    {
+      "addonID": 244830,
+      "installedFile": {
+        "displayName": "AdChimneys-1.12.2-3.5.14.0-build.0505.jar",
+        "id": 2973503,
+        "skipDownload": true,
+        "fileName": "AdChimneys-1.12.2-3.5.14.0-build.0505.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2973/503/AdChimneys-1.12.2-3.5.14.0-build.0505.jar"
+      }
+    },
+    {
+      "addonID": 230137,
+      "installedFile": {
+        "displayName": "AdditionalBanners-1.12.2-1.1.77.jar",
+        "id": 2751062,
+        "fileName": "AdditionalBanners-1.12.2-1.1.77.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2751/62/AdditionalBanners-1.12.2-1.1.77.jar"
+      }
+    },
+    {
+      "addonID": 269973,
+      "installedFile": {
+        "displayName": "AdPother-1.12.2-1.2.22.0-build.0624.jar",
+        "id": 3514255,
+        "fileName": "AdPother-1.12.2-1.2.22.0-build.0624.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3514/255/AdPother-1.12.2-1.2.22.0-build.0624.jar"
+      }
+    },
+    {
+      "addonID": 225635,
+      "installedFile": {
+        "displayName": "AgriCraft-2.12.0-1.12.0-a6.jar",
+        "id": 2609648,
+        "fileName": "AgriCraft-2.12.0-1.12.0-a6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2609/648/AgriCraft-2.12.0-1.12.0-a6.jar"
+      }
+    },
+    {
+      "addonID": 227795,
+      "installedFile": {
+        "displayName": "antiqueatlas-1.12.2-4.6.3.jar",
+        "id": 2823030,
+        "fileName": "antiqueatlas-1.12.2-4.6.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2823/30/antiqueatlas-1.12.2-4.6.3.jar"
+      }
+    },
+    {
+      "addonID": 224472,
+      "installedFile": {
+        "displayName": "AppleCore-mc1.12.2-3.4.0.jar",
+        "id": 2969118,
+        "fileName": "AppleCore-mc1.12.2-3.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2969/118/AppleCore-mc1.12.2-3.4.0.jar"
+      }
+    },
+    {
+      "addonID": 310383,
+      "installedFile": {
+        "displayName": "armorunder-mc1.12.2-1.0.0.jar",
+        "id": 2660325,
+        "skipDownload": true,
+        "fileName": "armorunder-mc1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2660/325/armorunder-mc1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 284350,
+      "installedFile": {
+        "displayName": "athenaeum-1.12.2-1.19.2.jar",
+        "id": 3063275,
+        "fileName": "athenaeum-1.12.2-1.19.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3063/275/athenaeum-1.12.2-1.19.2.jar"
+      }
+    },
+    {
+      "addonID": 280510,
+      "installedFile": {
+        "displayName": "AttributeFix-1.12.2-1.0.10.jar",
+        "id": 2810157,
+        "fileName": "AttributeFix-1.12.2-1.0.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2810/157/AttributeFix-1.12.2-1.0.10.jar"
+      }
+    },
+    {
+      "addonID": 250363,
+      "installedFile": {
+        "displayName": "AutoRegLib-1.3-32.jar",
+        "id": 2746011,
+        "fileName": "AutoRegLib-1.3-32.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
+      }
+    },
+    {
+      "addonID": 347719,
+      "installedFile": {
+        "displayName": "bannerelytra-forge-1.0.0-1.12.2.jar",
+        "id": 2810275,
+        "fileName": "bannerelytra-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2810/275/bannerelytra-1.0.jar"
+      }
+    },
+    {
+      "addonID": 227083,
+      "installedFile": {
+        "displayName": "Baubles-1.12-1.5.2.jar",
+        "id": 2518667,
+        "fileName": "Baubles-1.12-1.5.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+      }
+    },
+    {
+      "addonID": 303557,
+      "installedFile": {
+        "displayName": "Better Animals Plus 1.12.2-9.0.1",
+        "id": 2933382,
+        "skipDownload": true,
+        "fileName": "betteranimalsplus-1.12.2-9.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2933/382/betteranimalsplus-1.12.2-9.0.1.jar"
+      }
+    },
+    {
+      "addonID": 353434,
+      "installedFile": {
+        "displayName": "BetterBurning-1.12.2-0.9.2.jar",
+        "id": 2918988,
+        "fileName": "BetterBurning-1.12.2-0.9.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2918/988/BetterBurning-1.12.2-0.9.2.jar"
+      }
+    },
+    {
+      "addonID": 373509,
+      "installedFile": {
+        "displayName": "BeyondTheVeil-1.12.2-0.2.2.jar",
+        "id": 2964141,
+        "skipDownload": true,
+        "fileName": "BeyondTheVeil-1.12.2-0.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2964/141/BeyondTheVeil-1.12.2-0.2.2.jar"
+      }
+    },
+    {
+      "addonID": 228027,
+      "installedFile": {
+        "displayName": "BiblioCraft v2.4.5",
+        "id": 2574880,
+        "fileName": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2574/880/BiblioCraft[v2.4.5][MC1.12.2].jar"
+      }
+    },
+    {
+      "addonID": 220318,
+      "installedFile": {
+        "displayName": "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+        "id": 2842510,
+        "fileName": "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2842/510/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar"
+      }
+    },
+    {
+      "addonID": 244181,
+      "installedFile": {
+        "displayName": "blockdrops-1.12.2-1.4.0.jar",
+        "id": 2509046,
+        "fileName": "blockdrops-1.12.2-1.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2509/46/blockdrops-1.12.2-1.4.0.jar"
+      }
+    },
+    {
+      "addonID": 224791,
+      "installedFile": {
+        "displayName": "BloodMagic-1.12.2-2.4.3-105.jar",
+        "id": 2822288,
+        "skipDownload": true,
+        "fileName": "BloodMagic-1.12.2-2.4.3-105.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2822/288/BloodMagic-1.12.2-2.4.3-105.jar"
+      }
+    },
+    {
+      "addonID": 226321,
+      "installedFile": {
+        "displayName": "Bloodmoon-MC1.12.2-1.5.3.jar",
+        "id": 2537917,
+        "fileName": "Bloodmoon-MC1.12.2-1.5.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar"
+      }
+    },
+    {
+      "addonID": 290212,
+      "installedFile": {
+        "displayName": "boptools-1.12-0.0.3.0.jar",
+        "id": 2554276,
+        "fileName": "boptools-1.12-0.0.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2554/276/boptools-1.12-0.0.3.0.jar"
+      }
+    },
+    {
+      "addonID": 269167,
+      "installedFile": {
+        "displayName": "BottledMilk-1.12-1.1.0.jar",
+        "id": 2520532,
+        "fileName": "BottledMilk-1.12-1.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2520/532/BottledMilk-1.12-1.1.0.jar"
+      }
+    },
+    {
+      "addonID": 224713,
+      "installedFile": {
+        "displayName": "Bow Infinity Fix rv5.1",
+        "id": 2707590,
+        "fileName": "BowInfinityFix-1.12.2-rv5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2707/590/BowInfinityFix-1.12.2-rv5.1.jar"
+      }
+    },
+    {
+      "addonID": 311327,
+      "installedFile": {
+        "displayName": "carrotslib-mc1.12.2-1.0.0b1.jar",
+        "id": 2660247,
+        "fileName": "carrotslib-mc1.12.2-1.0.0b1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2660/247/carrotslib-mc1.12.2-1.0.0b1.jar"
+      }
+    },
+    {
+      "addonID": 250617,
+      "installedFile": {
+        "displayName": "Ceramics  v1.3.7 for 1.12.2",
+        "id": 2698094,
+        "fileName": "Ceramics-1.12-1.3.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2698/94/Ceramics-1.12-1.3.7.jar"
+      }
+    },
+    {
+      "addonID": 264111,
+      "installedFile": {
+        "displayName": "CharcoalPit-[1.12]-1.20.jar",
+        "id": 2615892,
+        "fileName": "CharcoalPit-[1.12]-1.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2615/892/CharcoalPit-[1.12]-1.20.jar"
+      }
+    },
+    {
+      "addonID": 318872,
+      "installedFile": {
+        "displayName": "Charm-1.12.2-1.4.jar",
+        "id": 3067134,
+        "fileName": "Charm-1.12.2-1.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3067/134/Charm-1.12.2-1.4.jar"
+      }
+    },
+    {
+      "addonID": 291374,
+      "installedFile": {
+        "displayName": "Charset Immersion 0.5.6.0",
+        "id": 2745007,
+        "fileName": "Charset-Immersion-0.5.6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2745/7/Charset-Immersion-0.5.6.0.jar"
+      }
+    },
+    {
+      "addonID": 284523,
+      "installedFile": {
+        "displayName": "Charset Lib 0.5.6.5",
+        "id": 3066682,
+        "fileName": "Charset-Lib-0.5.6.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3066/682/Charset-Lib-0.5.6.5.jar"
+      }
+    },
+    {
+      "addonID": 298584,
+      "installedFile": {
+        "displayName": "Charset Storage Chests 0.5.6.0",
+        "id": 2745002,
+        "fileName": "Charset-StorageChests-0.5.6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2745/2/Charset-StorageChests-0.5.6.0.jar"
+      }
+    },
+    {
+      "addonID": 284654,
+      "installedFile": {
+        "displayName": "Charset Tweak Carry 0.5.6.3",
+        "id": 2754599,
+        "fileName": "Charset-TweakCarry-0.5.6.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2754/599/Charset-TweakCarry-0.5.6.3.jar"
+      }
+    },
+    {
+      "addonID": 285363,
+      "installedFile": {
+        "displayName": "Charset Tweaks 0.5.6.2",
+        "id": 2745327,
+        "fileName": "Charset-Tweaks-0.5.6.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2745/327/Charset-Tweaks-0.5.6.2.jar"
+      }
+    },
+    {
+      "addonID": 293319,
+      "installedFile": {
+        "displayName": "Cloche Call - 1.12.2 -1.1.2",
+        "id": 2909440,
+        "fileName": "ClocheCall-1.1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2909/440/ClocheCall-1.1.2.jar"
+      }
+    },
+    {
+      "addonID": 69162,
+      "installedFile": {
+        "displayName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "id": 2920433,
+        "fileName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+      }
+    },
+    {
+      "addonID": 271384,
+      "installedFile": {
+        "displayName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+        "id": 2920434,
+        "fileName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+      }
+    },
+    {
+      "addonID": 276951,
+      "installedFile": {
+        "displayName": "comforts-1.12.2-1.4.1.3.jar",
+        "id": 2880613,
+        "fileName": "comforts-1.12.2-1.4.1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2880/613/comforts-1.12.2-1.4.1.3.jar"
+      }
+    },
+    {
+      "addonID": 247007,
+      "installedFile": {
+        "displayName": "CommonCapabilities-1.12.2-2.4.8.jar",
+        "id": 3053017,
+        "fileName": "CommonCapabilities-1.12.2-2.4.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3053/17/CommonCapabilities-1.12.2-2.4.8.jar"
+      }
+    },
+    {
+      "addonID": 231484,
+      "installedFile": {
+        "displayName": "CookingForBlockheads_1.12.2-6.5.0.jar",
+        "id": 2862651,
+        "fileName": "CookingForBlockheads_1.12.2-6.5.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar"
+      }
+    },
+    {
+      "addonID": 237749,
+      "installedFile": {
+        "displayName": "coroutil-1.12.1-1.2.37.jar",
+        "id": 2902920,
+        "fileName": "coroutil-1.12.1-1.2.37.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2902/920/coroutil-1.12.1-1.2.37.jar"
+      }
+    },
+    {
+      "addonID": 316582,
+      "installedFile": {
+        "displayName": "[1.12.2] Corpse 1.12.2-1.0.8",
+        "id": 3010808,
+        "skipDownload": true,
+        "fileName": "corpse-1.12.2-1.0.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3010/808/corpse-1.12.2-1.0.8.jar"
+      }
+    },
+    {
+      "addonID": 308653,
+      "installedFile": {
+        "displayName": "cosmeticbeds-1.12.2-1.0.2.2.jar",
+        "id": 2667875,
+        "fileName": "cosmeticbeds-1.12.2-1.0.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2667/875/cosmeticbeds-1.12.2-1.0.2.2.jar"
+      }
+    },
+    {
+      "addonID": 283283,
+      "installedFile": {
+        "displayName": "CosmicLib-1.12.2-0.4.0.BETA.jar",
+        "id": 2644720,
+        "fileName": "CosmicLib-1.12.2-0.4.0.BETA.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2644/720/CosmicLib-1.12.2-0.4.0.BETA.jar"
+      }
+    },
+    {
+      "addonID": 233071,
+      "installedFile": {
+        "displayName": "CraftingTweaks_1.12.2-8.1.9.jar",
+        "id": 2562139,
+        "fileName": "CraftingTweaks_1.12.2-8.1.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2562/139/CraftingTweaks_1.12.2-8.1.9.jar"
+      }
+    },
+    {
+      "addonID": 239197,
+      "installedFile": {
+        "displayName": "CraftTweaker2-1.12-4.1.20.592.jar",
+        "id": 3065686,
+        "fileName": "CraftTweaker2-1.12-4.1.20.592.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3065/686/CraftTweaker2-1.12-4.1.20.592.jar"
+      }
+    },
+    {
+      "addonID": 268104,
+      "installedFile": {
+        "displayName": "Creeping Nether 2.2.2 for 1.12.2",
+        "id": 2655432,
+        "fileName": "Creeping Nether-2.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2655/432/Creeping Nether-2.2.2.jar"
+      }
+    },
+    {
+      "addonID": 267602,
+      "installedFile": {
+        "displayName": "CTM - MC1.12.2-1.0.2.31",
+        "id": 2915363,
+        "fileName": "CTM-MC1.12.2-1.0.2.31.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+      }
+    },
+    {
+      "addonID": 303694,
+      "installedFile": {
+        "displayName": "Cuisine-0.5.22-build929.jar",
+        "id": 2932722,
+        "skipDownload": true,
+        "fileName": "Cuisine-0.5.22-build929.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2932/722/Cuisine-0.5.22-build929.jar"
+      }
+    },
+    {
+      "addonID": 232758,
+      "installedFile": {
+        "displayName": "CyclopsCore-1.12.2-1.6.6.jar",
+        "id": 3010617,
+        "fileName": "CyclopsCore-1.12.2-1.6.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3010/617/CyclopsCore-1.12.2-1.6.6.jar"
+      }
+    },
+    {
+      "addonID": 349174,
+      "installedFile": {
+        "displayName": "DarknessLib-1.12.2-1.1.0.jar",
+        "id": 2892127,
+        "fileName": "DarknessLib-1.12.2-1.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2892/127/DarknessLib-1.12.2-1.1.0.jar"
+      }
+    },
+    {
+      "addonID": 241140,
+      "installedFile": {
+        "displayName": "DefaultWorldGenerator-port-1.12-2.3.jar",
+        "id": 2499252,
+        "fileName": "DefaultWorldGenerator-port-1.12-2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2499/252/DefaultWorldGenerator-port-1.12-2.3.jar"
+      }
+    },
+    {
+      "addonID": 273502,
+      "installedFile": {
+        "displayName": "defiledlands-1.12.2-1.4.3.jar",
+        "id": 2835318,
+        "skipDownload": true,
+        "fileName": "defiledlands-1.12.2-1.4.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2835/318/defiledlands-1.12.2-1.4.3.jar"
+      }
+    },
+    {
+      "addonID": 278799,
+      "installedFile": {
+        "displayName": "DenseMetals 2.0.0.30",
+        "id": 2833002,
+        "fileName": "DenseMetals-1.12.2-2.0.0.30.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2833/2/DenseMetals-1.12.2-2.0.0.30.jar"
+      }
+    },
+    {
+      "addonID": 278385,
+      "installedFile": {
+        "displayName": "Diet Hoppers 1.1",
+        "id": 2482543,
+        "fileName": "diethopper-1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2482/543/diethopper-1.1.jar"
+      }
+    },
+    {
+      "addonID": 284876,
+      "installedFile": {
+        "displayName": "1.12.2 Cubic Chunks Compability Version 1",
+        "id": 2558528,
+        "fileName": "DimensionalDoors-1.12.2-3.1.2-UNOFFICIAL.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2558/528/DimensionalDoors-3.0.9-287.jar"
+      }
+    },
+    {
+      "addonID": 272835,
+      "installedFile": {
+        "displayName": "dooglamooworlds-1.12.2-1.1.7.jar",
+        "id": 2839066,
+        "fileName": "dooglamooworlds-1.12.2-1.1.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2839/66/dooglamooworlds-1.12.2-1.1.7.jar"
+      }
+    },
+    {
+      "addonID": 284973,
+      "installedFile": {
+        "displayName": "dropt-1.12.2-1.18.0.jar",
+        "id": 2957599,
+        "fileName": "dropt-1.12.2-1.18.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2957/599/dropt-1.12.2-1.18.0.jar"
+      }
+    },
+    {
+      "addonID": 252818,
+      "installedFile": {
+        "displayName": "DynamicTrees-1.12.2-0.9.25.jar",
+        "id": 3446235,
+        "fileName": "DynamicTrees-1.12.2-0.9.25.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/235/DynamicTrees-1.12.2-0.9.25.jar"
+      }
+    },
+    {
+      "addonID": 289529,
+      "installedFile": {
+        "displayName": "dynamictreesdefiledlands-1.12.2-1.0.0.jar",
+        "id": 3136255,
+        "skipDownload": true,
+        "fileName": "dynamictreesdefiledlands-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3136/255/dynamictreesdefiledlands-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 427597,
+      "installedFile": {
+        "displayName": "DynamicTreesBOP-1.12.2-1.5.1.jar",
+        "id": 3268265,
+        "fileName": "DynamicTreesBOP-1.12.2-1.5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3268/265/DynamicTreesBOP-1.12.2-1.5.1.jar"
+      }
+    },
+    {
+      "addonID": 364983,
+      "installedFile": {
+        "displayName": "dynamictreesIntegratedDynamics-1.12.2-1.0.1.jar",
+        "id": 3059087,
+        "skipDownload": true,
+        "fileName": "dynamictreesIntegratedDynamics-1.12.2-1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3059/87/dynamictreesIntegratedDynamics-1.12.2-1.0.1.jar"
+      }
+    },
+    {
+      "addonID": 366216,
+      "installedFile": {
+        "displayName": "dynamictreesNatura-1.12.2-1.1.3.jar",
+        "id": 3070627,
+        "skipDownload": true,
+        "fileName": "dynamictreesNatura-1.12.2-1.1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3070/627/dynamictreesNatura-1.12.2-1.1.3.jar"
+      }
+    },
+    {
+      "addonID": 386753,
+      "installedFile": {
+        "displayName": "DynamicTreesQuark-1.12.2-1.0.6.jar",
+        "id": 3098571,
+        "fileName": "DynamicTreesQuark-1.12.2-1.0.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3098/571/DynamicTreesQuark-1.12.2-1.0.6.jar"
+      }
+    },
+    {
+      "addonID": 307560,
+      "installedFile": {
+        "displayName": "DynamicTreesPHC-1.12.2-2.0.5.jar",
+        "id": 3108742,
+        "fileName": "DynamicTreesPHC-1.12.2-2.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3108/742/DynamicTreesPHC-1.12.2-2.0.5.jar"
+      }
+    },
+    {
+      "addonID": 473277,
+      "installedFile": {
+        "displayName": "DynamicTreesTheBetweenlands-1.12.2-1.0.1.jar",
+        "id": 3282605,
+        "skipDownload": true,
+        "fileName": "DynamicTreesTheBetweenlands-1.12.2-1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3282/605/DynamicTreesTheBetweenlands-1.12.2-1.0.1.jar"
+      }
+    },
+    {
+      "addonID": 391986,
+      "installedFile": {
+        "displayName": "dynamictreesTheTwilightForest-1.12.2-1.2.3.jar",
+        "id": 3261436,
+        "skipDownload": true,
+        "fileName": "dynamictreesTheTwilightForest-1.12.2-1.2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3261/436/dynamictreesTheTwilightForest-1.12.2-1.2.3.jar"
+      }
+    },
+    {
+      "addonID": 291126,
+      "installedFile": {
+        "displayName": "engineers_doors-1.12.2-0.9.1.jar",
+        "id": 3023901,
+        "fileName": "engineers_doors-1.12.2-0.9.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3023/901/engineers_doors-1.12.2-0.9.1.jar"
+      }
+    },
+    {
+      "addonID": 267557,
+      "installedFile": {
+        "displayName": "Erosion 2.2.1 for 1.12",
+        "id": 2504072,
+        "fileName": "Erosion-2.2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2504/72/Erosion-2.2.1.jar"
+      }
+    },
+    {
+      "addonID": 294867,
+      "installedFile": {
+        "displayName": "extra-tan-5.2.591.jar",
+        "id": 2950341,
+        "fileName": "extra-tan-5.2.591.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2950/341/extra-tan-5.2.591.jar"
+      }
+    },
+    {
+      "addonID": 229708,
+      "installedFile": {
+        "displayName": "Farseek-1.12-2.5.jar",
+        "id": 2893083,
+        "fileName": "Farseek-1.12-2.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2893/83/Farseek-1.12-2.5.jar"
+      }
+    },
+    {
+      "addonID": 258881,
+      "installedFile": {
+        "displayName": "FasterLadderClimbing-1.12-0.1-146.jar",
+        "id": 2512758,
+        "skipDownload": true,
+        "fileName": "FasterLadderClimbing-1.12-0.1-146.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2512/758/FasterLadderClimbing-1.12-0.1-146.jar"
+      }
+    },
+    {
+      "addonID": 299540,
+      "installedFile": {
+        "displayName": "FastFurnace-1.12.2-1.3.1.jar",
+        "id": 2706111,
+        "fileName": "FastFurnace-1.12.2-1.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2706/111/FastFurnace-1.12.2-1.3.1.jar"
+      }
+    },
+    {
+      "addonID": 288885,
+      "installedFile": {
+        "displayName": "FastWorkbench-1.12.2-1.7.3.jar",
+        "id": 2838777,
+        "fileName": "FastWorkbench-1.12.2-1.7.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2838/777/FastWorkbench-1.12.2-1.7.3.jar"
+      }
+    },
+    {
+      "addonID": 276837,
+      "installedFile": {
+        "displayName": "FirstAid 1.6.14",
+        "id": 2917456,
+        "fileName": "firstaid-1.6.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2917/456/firstaid-1.6.14.jar"
+      }
+    },
+    {
+      "addonID": 278494,
+      "installedFile": {
+        "displayName": "FoamFix 0.10.10 (1.12.2)",
+        "id": 2845668,
+        "fileName": "foamfix-0.10.10-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 296430,
+      "installedFile": {
+        "displayName": "foodfunk-1.12.2-4.9.6.jar",
+        "id": 2849124,
+        "fileName": "foodfunk-1.12.2-4.9.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2849/124/foodfunk-1.12.2-4.9.6.jar"
+      }
+    },
+    {
+      "addonID": 244844,
+      "installedFile": {
+        "displayName": "ForgeEndertech-1.12.2-4.5.6.0-build.0619.jar",
+        "id": 3505633,
+        "fileName": "ForgeEndertech-1.12.2-4.5.6.0-build.0534.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3505/633/ForgeEndertech-1.12.2-4.5.6.0-build.0619.jar"
+      }
+    },
+    {
+      "addonID": 248453,
+      "installedFile": {
+        "displayName": "Forgelin-1.8.4.jar",
+        "id": 2785465,
+        "fileName": "Forgelin-1.8.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
+      }
+    },
+    {
+      "addonID": 76544,
+      "installedFile": {
+        "displayName": "GeographiCraft-1.12-0.8.9b.jar",
+        "id": 2497541,
+        "fileName": "GeographiCraft-1.12-0.8.9b.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2497/541/GeographiCraft-1.12-0.8.9b.jar"
+      }
+    },
+    {
+      "addonID": 271856,
+      "installedFile": {
+        "displayName": "Geolosys 1.12.2 3.0.10",
+        "id": 2827665,
+        "skipDownload": true,
+        "fileName": "Geolosys-1.12.2-3.0.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2827/665/Geolosys-1.12.2-3.0.10.jar"
+      }
+    },
+    {
+      "addonID": 264330,
+      "installedFile": {
+        "displayName": "GravelOres 1.8 for 1.12.x",
+        "id": 2508120,
+        "fileName": "gravelores-1.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2508/120/gravelores-1.8.jar"
+      }
+    },
+    {
+      "addonID": 235133,
+      "installedFile": {
+        "displayName": "Grue-1.12.2-1.8.0.jar",
+        "id": 2912661,
+        "fileName": "Grue-1.12.2-1.8.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2912/661/Grue-1.12.2-1.8.0.jar"
+      }
+    },
+    {
+      "addonID": 228832,
+      "installedFile": {
+        "displayName": "Guide-API-1.12-2.1.8-63.jar",
+        "id": 2645992,
+        "fileName": "Guide-API-1.12-2.1.8-63.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2645/992/Guide-API-1.12-2.1.8-63.jar"
+      }
+    },
+    {
+      "addonID": 225957,
+      "installedFile": {
+        "displayName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+        "id": 2499443,
+        "fileName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2499/443/HardcoreDarkness-MC1.12.2-2.0.jar"
+      }
+    },
+    {
+      "addonID": 252414,
+      "installedFile": {
+        "displayName": "HarvestTweaks-1.12-0.1.6.jar",
+        "id": 2507444,
+        "fileName": "HarvestTweaks-1.12-0.1.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2507/444/HarvestTweaks-1.12-0.1.6.jar"
+      }
+    },
+    {
+      "addonID": 227706,
+      "installedFile": {
+        "displayName": "hgp-1.0.jar",
+        "id": 2536711,
+        "fileName": "hgp-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2536/711/hgp-1.0.jar"
+      }
+    },
+    {
+      "addonID": 293223,
+      "installedFile": {
+        "displayName": "hookt-1.12.2-1.1.0.jar",
+        "id": 2644247,
+        "fileName": "hookt-1.12.2-1.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2644/247/hookt-1.12.2-1.1.0.jar"
+      }
+    },
+    {
+      "addonID": 72210,
+      "installedFile": {
+        "displayName": "Hopper Ducts v1.5 (for Minecraft 1.12.x)",
+        "id": 2454832,
+        "fileName": "hopperducts-mc1.12-1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2454/832/hopperducts-mc1.12-1.5.jar"
+      }
+    },
+    {
+      "addonID": 224476,
+      "installedFile": {
+        "displayName": "HungerOverhaul-1.12.2-1.3.3.jenkins148.jar",
+        "id": 2565122,
+        "fileName": "HungerOverhaul-1.12.2-1.3.3.jenkins148.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2565/122/HungerOverhaul-1.12.2-1.3.3.jenkins148.jar"
+      }
+    },
+    {
+      "addonID": 229060,
+      "installedFile": {
+        "displayName": "iChunUtil-1.12.2-7.2.2.jar",
+        "id": 2801262,
+        "fileName": "iChunUtil-1.12.2-7.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2801/262/iChunUtil-1.12.2-7.2.2.jar"
+      }
+    },
+    {
+      "addonID": 308162,
+      "installedFile": {
+        "displayName": "ieclochecompat-2.1.7-dev.454.jar",
+        "id": 2660409,
+        "fileName": "ieclochecompat-2.1.7-dev.454.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2660/409/ieclochecompat-2.1.7-dev.454.jar"
+      }
+    },
+    {
+      "addonID": 285690,
+      "installedFile": {
+        "displayName": "[1.12.x] IguanaTweaks Reborn 1.5.0",
+        "id": 2878069,
+        "fileName": "IguanaTweaksReborn-1.5.0-mc1.12.x.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2878/69/IguanaTweaksReborn-1.5.0-mc1.12.x.jar"
+      }
+    },
+    {
+      "addonID": 231951,
+      "installedFile": {
+        "displayName": "ImmersiveEngineering-0.12-98",
+        "id": 2974106,
+        "fileName": "ImmersiveEngineering-0.12-98.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2974/106/ImmersiveEngineering-0.12-98.jar"
+      }
+    },
+    {
+      "addonID": 268250,
+      "installedFile": {
+        "displayName": "immersivepetroleum-1.12.2-1.1.9.jar",
+        "id": 2544919,
+        "fileName": "immersivepetroleum-1.12.2-1.1.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2544/919/immersivepetroleum-1.12.2-1.1.9.jar"
+      }
+    },
+    {
+      "addonID": 350801,
+      "installedFile": {
+        "displayName": "immersivetweaks-1.12.2-1.1.0.jar",
+        "id": 2824298,
+        "fileName": "immersivetweaks-1.12.2-1.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2824/298/immersivetweaks-1.12.2-1.1.0.jar"
+      }
+    },
+    {
+      "addonID": 265751,
+      "installedFile": {
+        "displayName": "ImpEx - 1.12-0.1.3",
+        "id": 2508712,
+        "skipDownload": true,
+        "fileName": "ImprovedExtraction-1.12-0.1.3-BETA.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2508/712/ImprovedExtraction-1.12-0.1.3-BETA.jar"
+      }
+    },
+    {
+      "addonID": 251396,
+      "installedFile": {
+        "displayName": "infinitylib-1.12.0.jar",
+        "id": 2537265,
+        "fileName": "infinitylib-1.12.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2537/265/infinitylib-1.12.0.jar"
+      }
+    },
+    {
+      "addonID": 284007,
+      "installedFile": {
+        "displayName": "Inspirations 0.2.9 for 1.12.2",
+        "id": 2843007,
+        "skipDownload": true,
+        "fileName": "Inspirations-1.12.2-0.2.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2843/7/Inspirations-1.12.2-0.2.9.jar"
+      }
+    },
+    {
+      "addonID": 277047,
+      "installedFile": {
+        "displayName": "instantunify-1.12.2-1.1.2.jar",
+        "id": 2578325,
+        "fileName": "instantunify-1.12.2-1.1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2578/325/instantunify-1.12.2-1.1.2.jar"
+      }
+    },
+    {
+      "addonID": 236307,
+      "installedFile": {
+        "displayName": "IntegratedDynamics-1.12.2-1.1.10.jar",
+        "id": 3053012,
+        "skipDownload": true,
+        "fileName": "IntegratedDynamics-1.12.2-1.1.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3053/12/IntegratedDynamics-1.12.2-1.1.10.jar"
+      }
+    },
+    {
+      "addonID": 224535,
+      "installedFile": {
+        "displayName": "IvToolkit-1.3.3-1.12.jar",
+        "id": 2443253,
+        "fileName": "IvToolkit-1.3.3-1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2443/253/IvToolkit-1.3.3-1.12.jar"
+      }
+    },
+    {
+      "addonID": 266936,
+      "installedFile": {
+        "displayName": "JAOPCA-1.12.2-2.2.8.103.jar",
+        "id": 2722779,
+        "fileName": "JAOPCA-1.12.2-2.2.8.103.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/779/JAOPCA-1.12.2-2.2.8.103.jar"
+      }
+    },
+    {
+      "addonID": 252890,
+      "installedFile": {
+        "displayName": "JAOPCAOC-1.12.2-1.0.13.jar",
+        "id": 2864735,
+        "fileName": "JAOPCAOC-1.12.2-1.0.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2864/735/JAOPCAOC-1.12.2-1.0.13.jar"
+      }
+    },
+    {
+      "addonID": 238222,
+      "installedFile": {
+        "displayName": "jei_1.12.2-4.16.1.302.jar",
+        "id": 3043174,
+        "fileName": "jei_1.12.2-4.16.1.302.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar"
+      }
+    },
+    {
+      "addonID": 263590,
+      "installedFile": {
+        "displayName": "jepb-1.12-1.2.1.jar",
+        "id": 2455920,
+        "fileName": "jepb-1.12-1.2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2455/920/jepb-1.12-1.2.1.jar"
+      }
+    },
+    {
+      "addonID": 303122,
+      "installedFile": {
+        "displayName": "jetif-1.12.2-1.5.2.jar",
+        "id": 2919936,
+        "fileName": "jetif-1.12.2-1.5.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2919/936/jetif-1.12.2-1.5.2.jar"
+      }
+    },
+    {
+      "addonID": 267939,
+      "installedFile": {
+        "displayName": "[1.12.2] Just Enough HarvestCraft 1.7.2",
+        "id": 2997129,
+        "fileName": "just-enough-harvestcraft-1.12.2-1.7.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2997/129/just-enough-harvestcraft-1.12.2-1.7.2.jar"
+      }
+    },
+    {
+      "addonID": 235261,
+      "installedFile": {
+        "displayName": "JustAFewFish-1.7_for_1.12.jar",
+        "id": 2448283,
+        "fileName": "JustAFewFish-1.7_for_1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2448/283/JustAFewFish-1.7_for_1.12.jar"
+      }
+    },
+    {
+      "addonID": 248747,
+      "installedFile": {
+        "displayName": "justenoughbuttons-1.12.2-1.2.3.jar",
+        "id": 2646515,
+        "fileName": "justenoughbuttons-1.12.2-1.2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2646/515/justenoughbuttons-1.12.2-1.2.3.jar"
+      }
+    },
+    {
+      "addonID": 296289,
+      "installedFile": {
+        "displayName": "JustEnoughIDs 1.0.3-55",
+        "id": 2919737,
+        "fileName": "JustEnoughIDs-1.0.3-55.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2919/737/JustEnoughIDs-1.0.3-55.jar"
+      }
+    },
+    {
+      "addonID": 291727,
+      "installedFile": {
+        "displayName": "JustEnoughPetroleum-0.1.jar",
+        "id": 2549332,
+        "fileName": "JustEnoughPetroleum-0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2549/332/JustEnoughPetroleum-0.1.jar"
+      }
+    },
+    {
+      "addonID": 240630,
+      "installedFile": {
+        "displayName": "JustEnoughResources-1.12.2-0.9.2.60",
+        "id": 2728585,
+        "fileName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar"
+      }
+    },
+    {
+      "addonID": 303657,
+      "installedFile": {
+        "displayName": "Kiwi-1.12.2-0.5.3.32.jar",
+        "id": 2704824,
+        "fileName": "Kiwi-1.12.2-0.5.3.32.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2704/824/Kiwi-1.12.2-0.5.3.32.jar"
+      }
+    },
+    {
+      "addonID": 269714,
+      "installedFile": {
+        "displayName": "LeatherWorks-1.12-1.78.0.42.jar",
+        "id": 2695934,
+        "fileName": "LeatherWorks-1.12-1.78.0.42.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2695/934/LeatherWorks-1.12-1.78.0.42.jar"
+      }
+    },
+    {
+      "addonID": 298965,
+      "installedFile": {
+        "displayName": "LibraryEx-1.12.2-1.1.3.jar",
+        "id": 2950203,
+        "fileName": "LibraryEx-1.12.2-1.1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2950/203/LibraryEx-1.12.2-1.1.3.jar"
+      }
+    },
+    {
+      "addonID": 295303,
+      "installedFile": {
+        "displayName": "1.12",
+        "id": 2950334,
+        "fileName": "lieutenant-1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2950/334/lieutenant-1.12.jar"
+      }
+    },
+    {
+      "addonID": 255257,
+      "installedFile": {
+        "displayName": "LootTweaker-0.2.0+MC1.12.2.jar",
+        "id": 2988990,
+        "fileName": "LootTweaker-0.2.0+MC1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2988/990/LootTweaker-0.2.0+MC1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 287384,
+      "installedFile": {
+        "displayName": "Mad Villagers-1.12.2-1.0.1-release.jar",
+        "id": 2531521,
+        "fileName": "Mad Villagers-1.12.2-1.0.1-release.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2531/521/Mad Villagers-1.12.2-1.0.1-release.jar"
+      }
+    },
+    {
+      "addonID": 224808,
+      "installedFile": {
+        "displayName": "Magneticraft_1.12-2.8.3-dev.jar",
+        "id": 2935936,
+        "skipDownload": true,
+        "fileName": "Magneticraft_1.12-2.8.3-dev.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2935/936/Magneticraft_1.12-2.8.3-dev.jar"
+      }
+    },
+    {
+      "addonID": 74924,
+      "installedFile": {
+        "displayName": "Mantle-1.12-1.3.3.55.jar",
+        "id": 2713386,
+        "fileName": "Mantle-1.12-1.3.3.55.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
+      }
+    },
+    {
+      "addonID": 323533,
+      "installedFile": {
+        "displayName": "Mechanics BETA 1.1",
+        "id": 2937303,
+        "fileName": "mechanics-1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2937/303/mechanics-1.1.jar"
+      }
+    },
+    {
+      "addonID": 300890,
+      "installedFile": {
+        "displayName": "Metallurgy-4-Reforged-0.3.3",
+        "id": 2894502,
+        "fileName": "Metallurgy-4-Reforged-0.3.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2894/502/Metallurgy-4-Reforged-0.3.3.jar"
+      }
+    },
+    {
+      "addonID": 324154,
+      "installedFile": {
+        "displayName": "Millénaire Extended: Byzantine 1.0.0",
+        "id": 2723704,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended - Byzantine-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2723/704/Millénaire Extended - Byzantine-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 324131,
+      "installedFile": {
+        "displayName": "Millénaire Extended: Indians 1.0.0",
+        "id": 2723539,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended - Indians-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2723/539/Millénaire Extended - Indians-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 324313,
+      "installedFile": {
+        "displayName": "Millénaire Extended: Inuits 1.0.0",
+        "id": 2724457,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended - Inuits-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2724/457/Millénaire Extended - Inuits-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 324246,
+      "installedFile": {
+        "displayName": "Millénaire Extended: Maya 1.0.0",
+        "id": 2724140,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended - Maya-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2724/140/Millénaire Extended - Maya-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 306877,
+      "installedFile": {
+        "displayName": "Millénaire Extended: Normans 1.1.1",
+        "id": 2723503,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended - Normans-1.12.2-1.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2723/503/Millénaire Extended - Normans-1.12.2-1.1.1.jar"
+      }
+    },
+    {
+      "addonID": 345034,
+      "installedFile": {
+        "displayName": "Millénaire Extended 1.3.3",
+        "id": 2939279,
+        "skipDownload": true,
+        "fileName": "Millénaire Extended-1.12.2-1.3.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2939/279/Millénaire Extended-1.12.2-1.3.3.jar"
+      }
+    },
+    {
+      "addonID": 270871,
+      "installedFile": {
+        "displayName": "Millénaire 8.1.0",
+        "id": 2963260,
+        "skipDownload": true,
+        "fileName": "millenaire-8.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2963/260/millenaire-8.1.0.jar"
+      }
+    },
+    {
+      "addonID": 264706,
+      "installedFile": {
+        "displayName": "MinecartAIFix-1.12.2",
+        "id": 2535833,
+        "fileName": "minecartaifix-0.1.1-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2535/833/minecartaifix-0.1.1-1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 245506,
+      "installedFile": {
+        "displayName": "minecolonies-1.12.2-0.11.841-ALPHA-universal.jar",
+        "id": 2932783,
+        "skipDownload": true,
+        "fileName": "minecolonies-1.12.2-0.11.841-ALPHA-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2932/783/minecolonies-1.12.2-0.11.841-ALPHA-universal.jar"
+      }
+    },
+    {
+      "addonID": 298408,
+      "installedFile": {
+        "displayName": "mobsunscreen-1.12.2-2.1.3.jar",
+        "id": 3039432,
+        "fileName": "mobsunscreen-1.12.2-2.1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3039/432/mobsunscreen-1.12.2-2.1.3.jar"
+      }
+    },
+    {
+      "addonID": 277663,
+      "installedFile": {
+        "displayName": "modelloader-1.1.7.jar",
+        "id": 2744735,
+        "fileName": "modelloader-1.1.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2744/735/modelloader-1.1.7.jar"
+      }
+    },
+    {
+      "addonID": 220954,
+      "installedFile": {
+        "displayName": "modtweaker-4.0.18",
+        "id": 2881277,
+        "fileName": "modtweaker-4.0.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2881/277/modtweaker-4.0.18.jar"
+      }
+    },
+    {
+      "addonID": 253211,
+      "installedFile": {
+        "displayName": "MTLib-3.0.6",
+        "id": 2684561,
+        "fileName": "MTLib-3.0.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2684/561/MTLib-3.0.6.jar"
+      }
+    },
+    {
+      "addonID": 227887,
+      "installedFile": {
+        "displayName": "Multi Mine",
+        "id": 2790649,
+        "fileName": "MultiMine-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2790/649/MultiMine-1.12.2.jar"
+      }
+    },
+    {
+      "addonID": 74120,
+      "installedFile": {
+        "displayName": "natura-1.12.2-4.3.2.69.jar",
+        "id": 2711439,
+        "skipDownload": true,
+        "fileName": "natura-1.12.2-4.3.2.69.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2711/439/natura-1.12.2-4.3.2.69.jar"
+      }
+    },
+    {
+      "addonID": 282745,
+      "installedFile": {
+        "displayName": "[1.12.x] Natural Nether Portals 1.2.0",
+        "id": 2519727,
+        "fileName": "naturalnetherportals-1.2.0-mc1.12.x.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2519/727/naturalnetherportals-1.2.0-mc1.12.x.jar"
+      }
+    },
+    {
+      "addonID": 250359,
+      "installedFile": {
+        "displayName": "netherbound-2.0.jar",
+        "id": 2752252,
+        "fileName": "netherbound-2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2752/252/netherbound-2.0.jar"
+      }
+    },
+    {
+      "addonID": 268888,
+      "installedFile": {
+        "displayName": "netherchest-1.1.1.jar",
+        "id": 2655413,
+        "fileName": "netherchest-1.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2655/413/netherchest-1.1.1.jar"
+      }
+    },
+    {
+      "addonID": 248039,
+      "installedFile": {
+        "displayName": "NetherEx-1.12.2-2.1.8.jar",
+        "id": 2994400,
+        "fileName": "NetherEx-1.12.2-2.1.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2994/400/NetherEx-1.12.2-2.1.8.jar"
+      }
+    },
+    {
+      "addonID": 241160,
+      "installedFile": {
+        "displayName": "NetherPortalFix_1.12.1-5.3.17.jar",
+        "id": 2612052,
+        "fileName": "NetherPortalFix_1.12.1-5.3.17.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2612/52/NetherPortalFix_1.12.1-5.3.17.jar"
+      }
+    },
+    {
+      "addonID": 352301,
+      "installedFile": {
+        "displayName": "NorthernCompass-1.12.2-1.0.0.jar",
+        "id": 2831693,
+        "fileName": "NorthernCompass-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2831/693/NorthernCompass-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 342097,
+      "installedFile": {
+        "displayName": "nps_1.12-2.1.jar",
+        "id": 2798313,
+        "fileName": "nps_1.12-2.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2798/313/nps_1.12-2.1.jar"
+      }
+    },
+    {
+      "addonID": 275408,
+      "installedFile": {
+        "displayName": "oreberries-1.12.x-0.5.0.jar",
+        "id": 2578045,
+        "fileName": "oreberries-1.12.x-0.5.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2578/45/oreberries-1.12.x-0.5.0.jar"
+      }
+    },
+    {
+      "addonID": 307806,
+      "installedFile": {
+        "displayName": "OreLib-1.12.2-3.6.0.1.jar",
+        "id": 2820815,
+        "fileName": "OreLib-1.12.2-3.6.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
+      }
+    },
+    {
+      "addonID": 221857,
+      "installedFile": {
+        "displayName": "Pam's HarvestCraft 1.12.2zg.jar",
+        "id": 2904825,
+        "fileName": "Pam's HarvestCraft 1.12.2zg.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2904/825/Pam's HarvestCraft 1.12.2zg.jar"
+      }
+    },
+    {
+      "addonID": 289240,
+      "installedFile": {
+        "displayName": "Paraglider-1.12.2-1.0.1.5",
+        "id": 2816556,
+        "fileName": "Paraglider-1.12.2-1.0.1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2816/556/Paraglider-1.12.2-1.0.1.5.jar"
+      }
+    },
+    {
+      "addonID": 306770,
+      "installedFile": {
+        "displayName": "Patchouli-1.0-21.jar",
+        "id": 2992184,
+        "fileName": "Patchouli-1.0-21.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2992/184/Patchouli-1.0-21.jar"
+      }
+    },
+    {
+      "addonID": 73112,
+      "installedFile": {
+        "displayName": "PeacefulSurface-1.12.2-v2.jar",
+        "id": 2727271,
+        "fileName": "PeacefulSurface-1.12.2-v2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2727/271/PeacefulSurface-1.12.2-v2.jar"
+      }
+    },
+    {
+      "addonID": 283644,
+      "installedFile": {
+        "displayName": "Placebo-1.12.2-1.6.0.jar",
+        "id": 2694382,
+        "fileName": "Placebo-1.12.2-1.6.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar"
+      }
+    },
+    {
+      "addonID": 305178,
+      "installedFile": {
+        "displayName": "Poor Metals-1.4.0-beta.jar",
+        "id": 2682922,
+        "fileName": "Poor Metals-1.4.0-beta.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2682/922/Poor Metals-1.4.0-beta.jar"
+      }
+    },
+    {
+      "addonID": 247907,
+      "installedFile": {
+        "displayName": "PrimalCore-1.12.2-0.6.105.jar",
+        "id": 2734701,
+        "skipDownload": true,
+        "fileName": "PrimalCore-1.12.2-0.6.105.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2734/701/PrimalCore-1.12.2-0.6.105.jar"
+      }
+    },
+    {
+      "addonID": 282415,
+      "installedFile": {
+        "displayName": "primitive-mobs",
+        "id": 2658551,
+        "skipDownload": true
+      }
+    },
+    {
+      "addonID": 289544,
+      "installedFile": {
+        "displayName": "prospectus-1.8.jar",
+        "id": 2615644,
+        "fileName": "prospectus-1.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2615/644/prospectus-1.8.jar"
+      }
+    },
+    {
+      "addonID": 261220,
+      "installedFile": {
+        "displayName": "PumpkinCarving1.12-1.4.0.jar",
+        "id": 2559384,
+        "fileName": "PumpkinCarving1.12-1.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2559/384/PumpkinCarving1.12-1.4.0.jar"
+      }
+    },
+    {
+      "addonID": 306676,
+      "installedFile": {
+        "displayName": "pyrotech-1.12.2-1.4.34.jar",
+        "id": 3058467,
+        "fileName": "pyrotech-1.12.2-1.4.34.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3058/467/pyrotech-1.12.2-1.4.34.jar"
+      }
+    },
+    {
+      "addonID": 243121,
+      "installedFile": {
+        "displayName": "Quark-r1.6-179.jar",
+        "id": 2924091,
+        "fileName": "Quark-r1.6-179.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
+      }
+    },
+    {
+      "addonID": 225839,
+      "installedFile": {
+        "displayName": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
+        "id": 2469364,
+        "fileName": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2469/364/QuickLeafDecay-MC1.12.1-1.2.4.jar"
+      }
+    },
+    {
+      "addonID": 51195,
+      "installedFile": {
+        "displayName": "Railcraft 12.0.0 - MC 1.12.2",
+        "id": 2687757,
+        "skipDownload": true,
+        "fileName": "railcraft-12.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2687/757/railcraft-12.0.0.jar"
+      }
+    },
+    {
+      "addonID": 344544,
+      "installedFile": {
+        "displayName": "realisticfirespread-1.0.jar",
+        "id": 2797525,
+        "fileName": "realisticfirespread-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2797/525/realisticfirespread-1.0.jar"
+      }
+    },
+    {
+      "addonID": 245620,
+      "installedFile": {
+        "displayName": "RealisticItemDrops-1.2.14.jar",
+        "id": 2630384,
+        "fileName": "RealisticItemDrops-1.2.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2630/384/RealisticItemDrops-1.2.14.jar"
+      }
+    },
+    {
+      "addonID": 301177,
+      "installedFile": {
+        "displayName": "RealSerene-1.4.3-1.12.2.jar",
+        "id": 2640338,
+        "skipDownload": true,
+        "fileName": "realserene-1.4.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2640/338/realserene-1.4.3.jar"
+      }
+    },
+    {
+      "addonID": 223150,
+      "installedFile": {
+        "displayName": "RecurrentComplex-1.4.8.2.jar",
+        "id": 2689602,
+        "fileName": "RecurrentComplex-1.4.8.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2689/602/RecurrentComplex-1.4.8.2.jar"
+      }
+    },
+    {
+      "addonID": 270789,
+      "installedFile": {
+        "displayName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "id": 2920436,
+        "fileName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+      }
+    },
+    {
+      "addonID": 67508,
+      "installedFile": {
+        "displayName": "Redstone Paste v1.7.5 (for Minecraft 1.12.x)",
+        "id": 2477676,
+        "fileName": "redstonepaste-mc1.12-1.7.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2477/676/redstonepaste-mc1.12-1.7.5.jar"
+      }
+    },
+    {
+      "addonID": 226447,
+      "installedFile": {
+        "displayName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+        "id": 2477566,
+        "fileName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2477/566/ResourceLoader-MC1.12.1-1.5.3.jar"
+      }
+    },
+    {
+      "addonID": 275156,
+      "installedFile": {
+        "displayName": "Road Runner 1.0.1",
+        "id": 2468500,
+        "fileName": "roadrunner-1.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2468/500/roadrunner-1.0.1.jar"
+      }
+    },
+    {
+      "addonID": 237989,
+      "installedFile": {
+        "displayName": "RTG-1.12.2-6.1.0.0-snapshot.1",
+        "id": 2782568,
+        "skipDownload": true,
+        "fileName": "RTG-1.12.2-6.1.0.0-snapshot.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2782/568/RTG-1.12.2-6.1.0.0-snapshot.1.jar"
+      }
+    },
+    {
+      "addonID": 256141,
+      "installedFile": {
+        "displayName": "rustic-1.1.6.jar",
+        "id": 3053139,
+        "fileName": "rustic-1.1.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3053/139/rustic-1.1.6.jar"
+      }
+    },
+    {
+      "addonID": 289758,
+      "installedFile": {
+        "displayName": "rusticbopwoods-1.0.jar",
+        "id": 2538912,
+        "fileName": "rusticbopwoods-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2538/912/rusticbopwoods-1.0.jar"
+      }
+    },
+    {
+      "addonID": 234840,
+      "installedFile": {
+        "displayName": "saltymod",
+        "id": 2815130,
+        "fileName": "SaltyMod-1.12.2-1.12.6.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2815/130/SaltyMod-1.12.2-1.12.6.2.jar"
+      }
+    },
+    {
+      "addonID": 348025,
+      "installedFile": {
+        "displayName": "SRParasites-1.12.2v1.9.1.jar",
+        "id": 3498704,
+        "fileName": "SRParasites-1.12.2v1.9.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3498/704/SRParasites-1.12.2v1.9.1.jar"
+      }
+    },
+    {
+      "addonID": 282988,
+      "installedFile": {
+        "displayName": "Scavenge V1.12-1.8.3.2",
+        "id": 2598021,
+        "fileName": "Scavenge V1.12-1.8.3.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2598/21/Scavenge V1.12-1.8.3.2.jar"
+      }
+    },
+    {
+      "addonID": 289978,
+      "installedFile": {
+        "displayName": "Scavenge-Baubles V1.12-1.0",
+        "id": 2540249,
+        "fileName": "Scavenge-Baubles V1.12-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2540/249/Scavenge-Baubles V1.12-1.0.jar"
+      }
+    },
+    {
+      "addonID": 289984,
+      "installedFile": {
+        "displayName": "Scavenge-ToughAsNails V1.12-1.0",
+        "id": 2540241,
+        "fileName": "Scavenge-ToughAsNails V1.12-1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2540/241/Scavenge-ToughAsNails V1.12-1.0.jar"
+      }
+    },
+    {
+      "addonID": 291874,
+      "installedFile": {
+        "displayName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
+        "id": 2799213,
+        "fileName": "SereneSeasons-1.12.2-1.2.18-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2799/213/SereneSeasons-1.12.2-1.2.18-universal.jar"
+      }
+    },
+    {
+      "addonID": 255512,
+      "installedFile": {
+        "displayName": "simulatednights-1.12-2.1.0.jar",
+        "id": 2453023,
+        "fileName": "simulatednights-1.12-2.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2453/23/simulatednights-1.12-2.1.0.jar"
+      }
+    },
+    {
+      "addonID": 297284,
+      "installedFile": {
+        "displayName": "SleepingOverhaul-1.12.2-1.0.0.jar",
+        "id": 2644723,
+        "fileName": "SleepingOverhaul-1.12.2-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2644/723/SleepingOverhaul-1.12.2-1.0.0.jar"
+      }
+    },
+    {
+      "addonID": 345614,
+      "installedFile": {
+        "displayName": "smallernp_1.12-1.1.jar",
+        "id": 2819476,
+        "fileName": "smallernp_1.12-1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2819/476/smallernp_1.12-1.1.jar"
+      }
+    },
+    {
+      "addonID": 308663,
+      "installedFile": {
+        "displayName": "SnowRealMagic-0.3.3.jar",
+        "id": 2788702,
+        "fileName": "SnowRealMagic-0.3.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2788/702/SnowRealMagic-0.3.3.jar"
+      }
+    },
+    {
+      "addonID": 239236,
+      "installedFile": {
+        "displayName": "StepUp-1.0.2-mc1.10-1.12.jar",
+        "id": 2560363,
+        "fileName": "StepUp-1.0.2-mc1.10-1.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2560/363/StepUp-1.0.2-mc1.10-1.12.jar"
+      }
+    },
+    {
+      "addonID": 229769,
+      "installedFile": {
+        "displayName": "Streams-1.12-0.4.8.jar",
+        "id": 2861235,
+        "fileName": "Streams-1.12-0.4.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2861/235/Streams-1.12-0.4.8.jar"
+      }
+    },
+    {
+      "addonID": 267633,
+      "installedFile": {
+        "displayName": "tanspit-1.12.2-1.4.jar",
+        "id": 2853102,
+        "skipDownload": true,
+        "fileName": "tanspit-1.12.2-1.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/102/tanspit-1.12.2-1.4.jar"
+      }
+    },
+    {
+      "addonID": 254629,
+      "installedFile": {
+        "displayName": "The Beneath-1.12.2-1.7.0.jar",
+        "id": 2850842,
+        "skipDownload": true,
+        "fileName": "The Beneath-1.12.2-1.7.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2850/842/The Beneath-1.12.2-1.7.0.jar"
+      }
+    },
+    {
+      "addonID": 304881,
+      "installedFile": {
+        "displayName": "The Midnight 0.3.5",
+        "id": 2727758,
+        "skipDownload": true,
+        "fileName": "themidnight-0.3.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2727/758/themidnight-0.3.5.jar"
+      }
+    },
+    {
+      "addonID": 222880,
+      "installedFile": {
+        "displayName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+        "id": 2926428,
+        "fileName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+      }
+    },
+    {
+      "addonID": 230233,
+      "installedFile": {
+        "displayName": "v1.0.14 (MC 1.12.1)",
+        "id": 2483406,
+        "fileName": "TickrateChanger-1.0.14.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2483/406/TickrateChanger-1.0.14.jar"
+      }
+    },
+    {
+      "addonID": 266550,
+      "installedFile": {
+        "displayName": "toolprogression-1.12.2-1.6.10.jar",
+        "id": 3056307,
+        "fileName": "toolprogression-1.12.2-1.6.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3056/307/toolprogression-1.12.2-1.6.10.jar"
+      }
+    },
+    {
+      "addonID": 246391,
+      "installedFile": {
+        "displayName": "ToughAsNails-1.12.2-3.1.0.141-universal.jar",
+        "id": 2710969,
+        "fileName": "ToughAsNails-1.12.2-3.1.0.141-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2710/969/ToughAsNails-1.12.2-3.1.0.141-universal.jar"
+      }
+    },
+    {
+      "addonID": 245028,
+      "installedFile": {
+        "displayName": "Tumbleweed 0.4.7 for MC 1.12.2",
+        "id": 2876841,
+        "fileName": "tumbleweed-1.12-0.4.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2876/841/tumbleweed-1.12-0.4.7.jar"
+      }
+    },
+    {
+      "addonID": 227639,
+      "installedFile": {
+        "displayName": "Twilight Forest - MC 1.12.2 - 3.11.1021",
+        "id": 3051450,
+        "skipDownload": true,
+        "fileName": "twilightforest-1.12.2-3.11.1021-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
+      }
+    },
+    {
+      "addonID": 244258,
+      "installedFile": {
+        "displayName": "UniDict-1.12.2-2.9.7.jar",
+        "id": 3065390,
+        "fileName": "UniDict-1.12.2-2.9.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3065/390/UniDict-1.12.2-2.9.7.jar"
+      }
+    },
+    {
+      "addonID": 292785,
+      "installedFile": {
+        "displayName": "VanillaFix 1.0.10-150",
+        "id": 2915154,
+        "fileName": "VanillaFix-1.0.10-150.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar"
+      }
+    },
+    {
+      "addonID": 260621,
+      "installedFile": {
+        "displayName": "VillagerTrades-1.12-0.6.4.jar",
+        "id": 2441265,
+        "fileName": "VillagerTrades-1.12-0.6.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2441/265/VillagerTrades-1.12-0.6.4.jar"
+      }
+    },
+    {
+      "addonID": 253043,
+      "installedFile": {
+        "displayName": "WanionLib-1.12.2-2.5.jar",
+        "id": 3064112,
+        "fileName": "WanionLib-1.12.2-2.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3064/112/WanionLib-1.12.2-2.5.jar"
+      }
+    },
+    {
+      "addonID": 358973,
+      "installedFile": {
+        "displayName": "water-erosion-1.12.2-forge-1.1.1-beta1-full.jar",
+        "id": 2930508,
+        "fileName": "water-erosion-1.12.2-forge-1.1.1-beta1-full.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2930/508/water-erosion-1.12.2-forge-1.1.1-beta1-full.jar"
+      }
+    },
+    {
+      "addonID": 245755,
+      "installedFile": {
+        "displayName": "Waystones_1.12.2-4.1.0.jar",
+        "id": 2859589,
+        "fileName": "Waystones_1.12.2-4.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar"
+      }
+    },
+    {
+      "addonID": 257572,
+      "installedFile": {
+        "displayName": " Wearable Backpacks - 1.12.2 - 3.1.4",
+        "id": 2800372,
+        "fileName": "WearableBackpacks-1.12.2-3.1.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2800/372/WearableBackpacks-1.12.2-3.1.4.jar"
+      }
+    },
+    {
+      "addonID": 237746,
+      "installedFile": {
+        "displayName": "weather2-1.12.1-2.6.12.jar",
+        "id": 2596867,
+        "fileName": "weather2-1.12.1-2.6.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2596/867/weather2-1.12.1-2.6.12.jar"
+      }
+    },
+    {
+      "addonID": 269377,
+      "installedFile": {
+        "displayName": "Wopper-1.12-r5.jar",
+        "id": 2456802,
+        "fileName": "Wopper-1.12-r5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2456/802/Wopper-1.12-r5.jar"
+      }
+    },
+    {
+      "addonID": 299815,
+      "installedFile": {
+        "displayName": "worleycaves-1.12.2-1.5.2.jar",
+        "id": 3038801,
+        "fileName": "worleycaves-1.12.2-1.5.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3038/801/worleycaves-1.12.2-1.5.2.jar"
+      }
+    },
+    {
+      "addonID": 275153,
+      "installedFile": {
+        "displayName": "WrapUp-1.12-1.1.3.jar",
+        "id": 2486198,
+        "fileName": "WrapUp-1.12-1.1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2486/198/WrapUp-1.12-1.1.3.jar"
+      }
+    },
+    {
+      "addonID": 298323,
+      "installedFile": {
+        "displayName": "wumpleutil-1.12.2-2.12.9.jar",
+        "id": 2849447,
+        "fileName": "wumpleutil-1.12.2-2.12.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2849/447/wumpleutil-1.12.2-2.12.9.jar"
+      }
+    },
+    {
+      "addonID": 303857,
+      "installedFile": {
+        "displayName": "ZenFoundry-1.7.17.jar",
+        "id": 3002100,
+        "fileName": "ZenFoundry-1.7.17.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3002/100/ZenFoundry-1.7.17.jar"
+      }
+    },
+    {
+      "addonID": 237754,
+      "installedFile": {
+        "displayName": "zombieawareness-1.12.1-1.11.16.jar",
+        "id": 2663393,
+        "fileName": "zombieawareness-1.12.1-1.11.16.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2663/393/zombieawareness-1.12.1-1.11.16.jar"
+      }
     }
   ],
   "thirdParty": [
     {
-      "url": "https://media.forgecdn.net/files/2535/189/Dimdoors-3.0.7-b-1.233.jar",
-      "name": "dimensionaldoors",
-      "folder": "common/base/mods/thirdParty"
+      "url": "https://github.com/WesCook/Nutrition/releases/download/v4.9.0/Nutrition-1.12.2-4.9.0.jar",
+      "name": "nutrition",
+      "folder": "common/base/mods/thirdParty",
+      "fileName": "Nutrition-1.12.2-4.9.0.jar",
+      "downloadUrl": "https://github.com/WesCook/Nutrition/releases/download/v4.9.0/Nutrition-1.12.2-4.9.0.jar"
     }
   ]
 }

@@ -9,6 +9,16 @@
             "width" : 512,
             "height" : 512,
             "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
         }
     },
     
@@ -41,27 +51,41 @@
                 "gui" : "multiplayer"
             }
         },
-
+        
         "mods":
         {
-            "text" : "menu.options",
+            "text" : "fml.menu.mods",
             "posX" : -100,
             "posY" : 96,
             "width" : 200,
             "height" : 20,
-            "action" :
+            "action" : 
             {
                 "type" : "openGui",
-                "gui" : "options"
+                "gui" : "mods"
             }
         },
             
         "options":
         {
-            "text" : "menu.quit",
+            "text" : "menu.options",
             "posX" : -100,
             "posY" : 132,
-            "width" : 200,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -103,7 +127,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "ï¿½nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -119,7 +143,7 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -20,
+            "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_left"
         }

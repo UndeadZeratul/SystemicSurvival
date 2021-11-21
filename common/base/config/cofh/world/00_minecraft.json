@@ -1,4 +1,5 @@
 {
+	"priority": 1000000000000,
 	"populate": {
 		"dirt": {
 
@@ -122,7 +123,6 @@
 		},
 
 		"coal": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "coal_ore",
@@ -144,7 +144,6 @@
 		},
 
 		"iron": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "iron_ore",
@@ -166,7 +165,6 @@
 		},
 
 		"gold": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "gold_ore",
@@ -188,7 +186,6 @@
 		},
 
 		"redstone": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "redstone_ore",
@@ -210,7 +207,6 @@
 		},
 
 		"diamond": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": "diamond_ore",
@@ -232,7 +228,6 @@
 		},
 
 		"lapis": {
-			"enabled": false,
 			"distribution": "gaussian",
 			"generator": {
 				"block": "lapis_ore",
@@ -254,7 +249,6 @@
 		},
 
 		"mesa_gold": {
-			"enabled": false,
 			"enabled": true,
 			"distribution": "uniform",
 			"generator": {
@@ -294,7 +288,6 @@
 		},
 
 		"emerald": {
-			"enabled": false,
 			"distribution": "uniform",
 			"generator": {
 				"block": {

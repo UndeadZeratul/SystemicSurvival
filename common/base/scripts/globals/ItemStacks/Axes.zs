@@ -1,0 +1,73 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Axes
+global adamantineAxe as IItemStack      = <metallurgy:adamantine_axe>;
+global aluminumAxe as IItemStack        = <thermalfoundation:tool.axe_aluminum>;
+global amberAxe as IItemStack           = <boptools:axe_amber>;
+global amordrineAxe as IItemStack       = <metallurgy:amordrine_axe>;
+global angmallenAxe as IItemStack       = <metallurgy:angmallen_axe>;
+global astralSilverAxe as IItemStack    = <metallurgy:astral_silver_axe>;
+global atlarusAxe as IItemStack         = <metallurgy:atlarus_axe>;
+global blackSteelAxe as IItemStack      = <metallurgy:black_steel_axe>;
+global blazedAmedianAxe as IItemStack   = <netherex:blazed_amedian_axe>;
+global brassAxe as IItemStack           = <metallurgy:brass_axe>;
+global bronzeAxe as IItemStack          = <metallurgy:bronze_axe>;
+global carmotAxe as IItemStack          = <metallurgy:carmot_axe>;
+global celenegilAxe as IItemStack       = <metallurgy:celenegil_axe>;
+global ceruclaseAxe as IItemStack       = <metallurgy:ceruclase_axe>;
+global constantanAxe as IItemStack      = <thermalfoundation:tool.axe_constantan>;
+global copperAxe as IItemStack          = <metallurgy:copper_axe>;
+global damascusSteelAxe as IItemStack   = <metallurgy:damascus_steel_axe>;
+global deepIronAxe as IItemStack        = <metallurgy:deep_iron_axe>;
+global desichalkosAxe as IItemStack     = <metallurgy:desichalkos_axe>;
+global eboniteAxe as IItemStack         = <midnight:ebonys_axe>;
+global electrumAxe as IItemStack        = <metallurgy:electrum_axe>;
+global etheriumAxe as IItemStack        = <metallurgy:etherium_axe>;
+global eximiteAxe as IItemStack         = <metallurgy:eximite_axe>;
+global frostedAmedianAxe as IItemStack  = <netherex:frosted_amedian_axe>;
+global goldAxe as IItemStack            = <minecraft:golden_axe>;
+global haderothAxe as IItemStack        = <metallurgy:haderoth_axe>;
+global hepatizonAxe as IItemStack       = <metallurgy:hepatizon_axe>;
+global ignatiusAxe as IItemStack        = <metallurgy:ignatius_axe>;
+global inolashiteAxe as IItemStack      = <metallurgy:inolashite_axe>;
+global invarAxe as IItemStack           = <thermalfoundation:tool.axe_invar>;
+global ironAxe as IItemStack            = <minecraft:iron_axe>;
+global ironwoodAxe as IItemStack        = <twilightforest:ironwood_axe>;
+global kalendriteAxe as IItemStack      = <metallurgy:kalendrite_axe>;
+global knightmetalAxe as IItemStack     = <twilightforest:knightmetal_axe>;
+global krikAxe as IItemStack            = <metallurgy:krik_axe>;
+global leadAxe as IItemStack            = <thermalfoundation:tool.axe_lead>;
+global malachiteAxe as IItemStack       = <boptools:axe_malachite>;
+global midasiumAxe as IItemStack        = <metallurgy:midasium_axe>;
+global mithrilAxe as IItemStack         = <metallurgy:mithril_axe>;
+global nagriliteAxe as IItemStack       = <midnight:nagrilite_axe>;
+global nickelAxe as IItemStack          = <thermalfoundation:tool.axe_nickel>;
+global obsidianAxe as IItemStack        = <primal:obsidian_axe>;
+global orichalcumAxe as IItemStack      = <metallurgy:orichalcum_axe>;
+global oureclaseAxe as IItemStack       = <metallurgy:oureclase_axe>;
+global peridotAxe as IItemStack         = <boptools:axe_peridot>;
+global platinumAxe as IItemStack        = <metallurgy:platinum_axe>;
+global prometheumAxe as IItemStack      = <metallurgy:prometheum_axe>;
+global quicksilverAxe as IItemStack     = <metallurgy:quicksilver_axe>;
+global rubyAxe as IItemStack            = <boptools:axe_ruby>;
+global sanguiniteAxe as IItemStack      = <metallurgy:sanguinite_axe>;
+global sapphireAxe as IItemStack        = <boptools:axe_sapphire>;
+global shadowIronAxe as IItemStack      = <metallurgy:shadow_iron_axe>;
+global shadowSteelAxe as IItemStack     = <metallurgy:shadow_steel_axe>;
+global silverAxe as IItemStack          = <metallurgy:silver_axe>;
+global steelAxe as IItemStack           = <metallurgy:steel_axe>;
+global steeleafAxe as IItemStack        = <twilightforest:steeleaf_axe>;
+global tanzaniteAxe as IItemStack       = <boptools:axe_tanzanite>;
+global tartariteAxe as IItemStack       = <metallurgy:tartarite_axe>;
+global tenebrumAxe as IItemStack        = <midnight:tenebrum_axe>;
+global tinAxe as IItemStack             = <thermalfoundation:tool.axe_tin>;
+global topazAxe as IItemStack           = <boptools:axe_topaz>;
+global umbriumAxe as IItemStack         = <defiledlands:umbrium_axe>;
+global vulcaniteAxe as IItemStack       = <metallurgy:vulcanite_axe>;
+global vyroxeresAxe as IItemStack       = <metallurgy:vyroxeres_axe>;
+global witheredAmedianAxe as IItemStack = <netherex:withered_amedian_axe>;

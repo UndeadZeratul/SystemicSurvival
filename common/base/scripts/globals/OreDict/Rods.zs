@@ -1,0 +1,70 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Rods
+global anyAdamantineRod as IIngredient    = <ore:rodAdamantine>;
+global anyAluminumRod as IIngredient      = <ore:rodAluminum>;
+global anyAmberRod as IIngredient         = <ore:rodAmber>;
+global anyAmordrineRod as IIngredient     = <ore:rodAmordrine>;
+global anyAngmallenRod as IIngredient     = <ore:rodAngmallen>;
+global anyAstralSilverRod as IIngredient  = <ore:rodAstralSilver>;
+global anyAtlarusRod as IIngredient       = <ore:rodAtlarus>;
+global anyBlackSteelRod as IIngredient    = <ore:rodBlackSteel>;
+global anyBrassRod as IIngredient         = <ore:rodBrass>;
+global anyBronzeRod as IIngredient        = <ore:rodBronze>;
+global anyBlazeRod as IIngredient         = <ore:rodBlaze>;
+global anyCarmotRod as IIngredient        = <ore:rodCarmot>;
+global anyCelenegilRod as IIngredient     = <ore:rodCelenegil>;
+global anyCeruclaseRod as IIngredient     = <ore:rodCeruclase>;
+global anyConstantanRod as IIngredient    = <ore:rodConstantan>;
+global anyCopperRod as IIngredient        = <ore:rodCopper>;
+global anyCrudeIronRod as IIngredient     = <ore:rodCrudeIron>;
+global anyDamascusSteelRod as IIngredient = <ore:rodDamascusSteel>;
+global anyDeepIronRod as IIngredient      = <ore:rodDeepIron>;
+global anyDesichalkosRod as IIngredient   = <ore:rodDesichalkos>;
+global anyDiamondRod as IIngredient       = <ore:rodDiamond>;
+global anyElectrumRod as IIngredient      = <ore:rodElectrum>;
+global anyEtheriumRod as IIngredient      = <ore:rodEtherium>;
+global anyEximiteRod as IIngredient       = <ore:rodEximite>;
+global anyFieryRod as IIngredient         = <ore:rodFiery>;
+global anyGoldRod as IIngredient          = <ore:rodGold>;
+global anyHaderothRod as IIngredient      = <ore:rodHaderoth>;
+global anyHepatizonRod as IIngredient     = <ore:rodHepatizon>;
+global anyIgnatiusRod as IIngredient      = <ore:rodIgnatius>;
+global anyInolashiteRod as IIngredient    = <ore:rodInolashite>;
+global anyInvarRod as IIngredient         = <ore:rodInvar>;
+global anyIronRod as IIngredient          = <ore:rodIron>;
+global anyKalendriteRod as IIngredient    = <ore:rodKalendrite>;
+global anyKrikRod as IIngredient          = <ore:rodKrik>;
+global anyLeadRod as IIngredient          = <ore:rodLead>;
+global anyMalachiteRod as IIngredient     = <ore:rodMalachite>;
+global anyMidasiumRod as IIngredient      = <ore:rodMidasium>;
+global anyMithrilRod as IIngredient       = <ore:rodMithril>;
+global anyNagriliteRod as IIngredient     = <ore:rodNagrilite>;
+global anyNickelRod as IIngredient        = <ore:rodNickel>;
+global anyOrichalcumRod as IIngredient    = <ore:rodOrichalcum>;
+global anyOureclaseRod as IIngredient     = <ore:rodOureclase>;
+global anyPeridotRod as IIngredient       = <ore:rodPeridot>;
+global anyPlatinumRod as IIngredient      = <ore:rodPlatinum>;
+global anyPrometheumRod as IIngredient    = <ore:rodPrometheum>;
+global anyQuicksilverRod as IIngredient   = <ore:rodQuicksilver>;
+global anyRubyRod as IIngredient          = <ore:rodRuby>;
+global anySanguiniteRod as IIngredient    = <ore:rodSanguinite>;
+global anySapphireRod as IIngredient      = <ore:rodSapphire>;
+global anyShadowIronRod as IIngredient    = <ore:rodShadowIron>;
+global anyShadowSteelRod as IIngredient   = <ore:rodShadowSteel>;
+global anySilverRod as IIngredient        = <ore:rodSilver>;
+global anySteeleafRod as IIngredient      = <ore:rodSteeleaf>;
+global anySteelRod as IIngredient         = <ore:rodSteel>;
+global anyTanzaniteRod as IIngredient     = <ore:rodTanzanite>;
+global anyTartariteRod as IIngredient     = <ore:rodTartarite>;
+global anyTenebrumRod as IIngredient      = <ore:rodTenebrum>;
+global anyTinRod as IIngredient           = <ore:rodTin>;
+global anyTopazRod as IIngredient         = <ore:rodTopaz>;
+global anyUmbriumRod as IIngredient       = <ore:rodUmbrium>;
+global anyVulcaniteRod as IIngredient     = <ore:rodVulcanite>;
+global anyVyroxeresRod as IIngredient     = <ore:rodVyroxeres>;

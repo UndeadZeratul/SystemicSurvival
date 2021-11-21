@@ -1,0 +1,50 @@
+[
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots",
+      "primal:armor_ovis_head",
+      "primal:armor_ovis_body",
+      "primal:armor_ovis_legs",
+      "primal:armor_ovis_feet",
+      "primal:armor_wolf_head",
+      "primal:armor_wolf_body",
+      "primal:armor_wolf_legs",
+      "primal:armor_wolf_feet"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "twilightforest:arctic_helmet",
+      "twilightforest:arctic_chestplate",
+      "twilightforest:arctic_leggings",
+      "twilightforest:arctic_boots",
+      "twilightforest:yeti_helmet",
+      "twilightforest:yeti_chestplate",
+      "twilightforest:yeti_leggings",
+      "twilightforest:yeti_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "twilightforest:fiery_helmet",
+      "twilightforest:fiery_chestplate",
+      "twilightforest:fiery_leggings",
+      "twilightforest:fiery_boots"
+    ],
+    "modifier": 3
+  }
+]

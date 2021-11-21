@@ -1,0 +1,211 @@
+{
+  "Iron": {
+    "color": "#FFC7A3",
+    "oredictNames": [
+      "oreberryIron"
+    ],
+    "rarity": 0
+  },
+  "Gold": {
+    "color": "#FFCC33",
+    "oredictNames": [
+      "oreberryGold"
+    ],
+    "rarity": 0
+  },
+  "Copper": {
+    "color": "#FF8833",
+    "oredictNames": [
+      "oreberryCopper"
+    ],
+    "rarity": 0
+  },
+  "Tin": {
+    "color": "#BB4422",
+    "oredictNames": [
+      "oreberryTin"
+    ],
+    "rarity": 0
+  },
+  "Aluminum": {
+    "color": "#EEFFFF",
+    "oredictNames": [
+      "oreberryAluminum",
+      "oreberryAluminium"
+    ],
+    "smeltingResult": {
+      "oredictNames": [
+        "nuggetAluminum",
+        "nuggetAluminium"
+      ],
+      "ingotNames": [
+        "ingotAluminum",
+        "ingotAluminium"
+      ]
+    },
+    "rarity": 0
+  },
+  "AstralStarmetal": {
+    "color": "#2d3a84",
+    "oredictNames": [
+      "oreberryAstralStarmetal"
+    ],
+    "smeltingResult": "nuggetAstralStarmetal",
+    "rarity": 0
+  },
+  "Iridium": {
+    "color": "#ffffff",
+    "oredictNames": [
+      "oreberryIridium"
+    ],
+    "rarity": 0
+  },
+  "Mithril": {
+    "color": "#7fbcda",
+    "oredictNames": [
+      "oreberryMithril"
+    ],
+    "rarity": 0
+  },
+  "Nickel": {
+    "color": "#e6e9c8",
+    "oredictNames": [
+      "oreberryNickel"
+    ],
+    "rarity": 0
+  },
+  "Platinum": {
+    "color": "#c2ffff",
+    "oredictNames": [
+      "oreberryPlatinum"
+    ],
+    "rarity": 0
+  },
+  "Silver": {
+    "color": "#dbedf2",
+    "oredictNames": [
+      "oreberrySilver"
+    ],
+    "rarity": 0
+  },
+  "Uranium": {
+    "color": "#76876b",
+    "oredictNames": [
+      "oreberryUranium"
+    ],
+    "rarity": 0
+  },
+  "Amber": {
+    "color": "#ffcd5c",
+    "oredictNames": [
+      "oreberryAmber"
+    ],
+    "rarity": 0
+  },
+  "Amethyst": {
+    "color": "#ff9eff",
+    "oredictNames": [
+      "oreberryAmethyst"
+    ],
+    "rarity": 0
+  },
+  "Aquamarine": {
+    "color": "#b2ff",
+    "oredictNames": [
+      "oreberryAquamarine"
+    ],
+    "rarity": 0
+  },
+  "Coal": {
+    "color": "#222222",
+    "oredictNames": [
+      "oreberryCoal"
+    ],
+    "rarity": 0
+  },
+  "Diamond": {
+    "color": "#aefffb",
+    "oredictNames": [
+      "oreberryDiamond"
+    ],
+    "rarity": 0
+  },
+  "Emerald": {
+    "color": "#73ff9d",
+    "oredictNames": [
+      "oreberryEmerald"
+    ],
+    "rarity": 0
+  },
+  "EnderBiotite": {
+    "color": "#c121b",
+    "oredictNames": [
+      "oreberryEnderBiotite"
+    ],
+    "smeltingResult": "nuggetEnderBiotite",
+    "rarity": 0
+  },
+  "Lapis": {
+    "color": "#4373f2",
+    "oredictNames": [
+      "oreberryLapis"
+    ],
+    "rarity": 0
+  },
+  "Lead": {
+    "color": "#6e7898",
+    "oredictNames": [
+      "oreberryLead"
+    ],
+    "rarity": 0
+  },
+  "Malachite": {
+    "color": "#73d0b1",
+    "oredictNames": [
+      "oreberryMalachite"
+    ],
+    "rarity": 0
+  },
+  "Peridot": {
+    "color": "#aac88a",
+    "oredictNames": [
+      "oreberryPeridot"
+    ],
+    "rarity": 0
+  },
+  "Quartz": {
+    "color": "#7d7266",
+    "oredictNames": [
+      "oreberryQuartz"
+    ],
+    "rarity": 0
+  },
+  "Ruby": {
+    "color": "#e0586f",
+    "oredictNames": [
+      "oreberryRuby"
+    ],
+    "rarity": 0
+  },
+  "Sapphire": {
+    "color": "#5fa5cf",
+    "oredictNames": [
+      "oreberrySapphire"
+    ],
+    "rarity": 0
+  },
+  "Tanzanite": {
+    "color": "#a46bda",
+    "oredictNames": [
+      "oreberryTanzanite"
+    ],
+    "rarity": 0
+  },
+  "Topaz": {
+    "color": "#ffb58a",
+    "oredictNames": [
+      "oreberryTopaz"
+    ],
+    "rarity": 0
+  }
+}

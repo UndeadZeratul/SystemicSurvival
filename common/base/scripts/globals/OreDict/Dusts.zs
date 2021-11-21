@@ -1,0 +1,70 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Dusts
+global anyAdamantineDust as IIngredient    = <ore:dustAdamantine>;
+global anyAluminumDust as IIngredient      = <ore:dustAluminum>;
+global anyAmberDust as IIngredient         = <ore:dustAmber>;
+global anyAmordrineDust as IIngredient     = <ore:dustAmordrine>;
+global anyAngmallenDust as IIngredient     = <ore:dustAngmallen>;
+global anyAstralSilverDust as IIngredient  = <ore:dustAstralSilver>;
+global anyAtlarusDust as IIngredient       = <ore:dustAtlarus>;
+global anyBlackSteelDust as IIngredient    = <ore:dustBlackSteel>;
+global anyBrassDust as IIngredient         = <ore:dustBrass>;
+global anyBronzeDust as IIngredient        = <ore:dustBronze>;
+global anyCarmotDust as IIngredient        = <ore:dustCarmot>;
+global anyCelenegilDust as IIngredient     = <ore:dustCelenegil>;
+global anyCeruclaseDust as IIngredient     = <ore:dustCeruclase>;
+global anyConstantanDust as IIngredient    = <ore:dustConstantan>;
+global anyCopperDust as IIngredient        = <ore:dustCopper>;
+global anyCrudeIronDust as IIngredient     = <ore:dustCrudeIron>;
+global anyDamascusSteelDust as IIngredient = <ore:dustDamascusSteel>;
+global anyDeepIronDust as IIngredient      = <ore:dustDeepIron>;
+global anyDesichalkosDust as IIngredient   = <ore:dustDesichalkos>;
+global anyDiamondDust as IIngredient       = <ore:dustDiamond>;
+global anyElectrumDust as IIngredient      = <ore:dustElectrum>;
+global anyEtheriumDust as IIngredient      = <ore:dustEtherium>;
+global anyEximiteDust as IIngredient       = <ore:dustEximite>;
+global anyFieryDust as IIngredient         = <ore:dustFiery>;
+global anyGoldDust as IIngredient          = <ore:dustGold>;
+global anyHaderothDust as IIngredient      = <ore:dustHaderoth>;
+global anyHepatizonDust as IIngredient     = <ore:dustHepatizon>;
+global anyIgnatiusDust as IIngredient      = <ore:dustIgnatius>;
+global anyInolashiteDust as IIngredient    = <ore:dustInolashite>;
+global anyInvarDust as IIngredient         = <ore:dustInvar>;
+global anyIronDust as IIngredient          = <ore:dustIron>;
+global anyKalendriteDust as IIngredient    = <ore:dustKalendrite>;
+global anyKrikDust as IIngredient          = <ore:dustKrik>;
+global anyLeadDust as IIngredient          = <ore:dustLead>;
+global anyMalachiteDust as IIngredient     = <ore:dustMalachite>;
+global anyMidasiumDust as IIngredient      = <ore:dustMidasium>;
+global anyMithrilDust as IIngredient       = <ore:dustMithril>;
+global anyNagriliteDust as IIngredient     = <ore:dustNagrilite>;
+global anyNickelDust as IIngredient        = <ore:dustNickel>;
+global anyObsidianDust as IIngredient      = <ore:dustObsidian>;
+global anyOrichalcumDust as IIngredient    = <ore:dustOrichalcum>;
+global anyOureclaseDust as IIngredient     = <ore:dustOureclase>;
+global anyPeridotDust as IIngredient       = <ore:dustPeridot>;
+global anyPlatinumDust as IIngredient      = <ore:dustPlatinum>;
+global anyPrometheumDust as IIngredient    = <ore:dustPrometheum>;
+global anyQuicksilverDust as IIngredient   = <ore:dustQuicksilver>;
+global anyRubyDust as IIngredient          = <ore:dustRuby>;
+global anySanguiniteDust as IIngredient    = <ore:dustSanguinite>;
+global anySapphireDust as IIngredient      = <ore:dustSapphire>;
+global anyShadowIronDust as IIngredient    = <ore:dustShadowIron>;
+global anyShadowSteelDust as IIngredient   = <ore:dustShadowSteel>;
+global anySilverDust as IIngredient        = <ore:dustSilver>;
+global anySteelDust as IIngredient         = <ore:dustSteel>;
+global anySteeleafDust as IIngredient      = <ore:dustSteeleaf>;
+global anyTanzaniteDust as IIngredient     = <ore:dustTanzanite>;
+global anyTartariteDust as IIngredient     = <ore:dustTartarite>;
+global anyTenebrumDust as IIngredient      = <ore:dustTenebrum>;
+global anyTinDust as IIngredient           = <ore:dustTin>;
+global anyTopazDust as IIngredient         = <ore:dustTopaz>;
+global anyUmbriumDust as IIngredient       = <ore:dustUmbrium>;
+global anyVulcaniteDust as IIngredient     = <ore:dustVulcanite>;
+global anyVyroxeresDust as IIngredient     = <ore:dustVyroxeres>;

@@ -1,0 +1,75 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Pickaxes
+global adamantinePickaxe as IItemStack      = <metallurgy:adamantine_pickaxe>;
+global aluminumPickaxe as IItemStack        = <thermalfoundation:tool.pickaxe_aluminum>;
+global amberPickaxe as IItemStack           = <boptools:pickaxe_amber>;
+global amordrinePickaxe as IItemStack       = <metallurgy:amordrine_pickaxe>;
+global angmallenPickaxe as IItemStack       = <metallurgy:angmallen_pickaxe>;
+global astralSilverPickaxe as IItemStack    = <metallurgy:astral_silver_pickaxe>;
+global atlarusPickaxe as IItemStack         = <metallurgy:atlarus_pickaxe>;
+global blackSteelPickaxe as IItemStack      = <metallurgy:black_steel_pickaxe>;
+global blazedAmedianPickaxe as IItemStack   = <netherex:blazed_amedian_pickaxe>;
+global bonePickaxe as IItemStack            = <primal:bone_pickaxe>;
+global brassPickaxe as IItemStack           = <metallurgy:brass_pickaxe>;
+global bronzePickaxe as IItemStack          = <metallurgy:bronze_pickaxe>;
+global carmotPickaxe as IItemStack          = <metallurgy:carmot_pickaxe>;
+global celenegilPickaxe as IItemStack       = <metallurgy:celenegil_pickaxe>;
+global ceruclasePickaxe as IItemStack       = <metallurgy:ceruclase_pickaxe>;
+global constantanPickaxe as IItemStack      = <thermalfoundation:tool.pickaxe_constantan>;
+global copperPickaxe as IItemStack          = <metallurgy:copper_pickaxe>;
+global damascusSteelPickaxe as IItemStack   = <metallurgy:damascus_steel_pickaxe>;
+global deepIronPickaxe as IItemStack        = <metallurgy:deep_iron_pickaxe>;
+global desichalkosPickaxe as IItemStack     = <metallurgy:desichalkos_pickaxe>;
+global diamondPickaxe as IItemStack         = <primal:diamond_pickaxe>;
+global ebonitePickaxe as IItemStack         = <midnight:ebonys_pickaxe>;
+global electrumPickaxe as IItemStack        = <metallurgy:electrum_pickaxe>;
+global etheriumPickaxe as IItemStack        = <metallurgy:etherium_pickaxe>;
+global eximitePickaxe as IItemStack         = <metallurgy:eximite_pickaxe>;
+global fieryPickaxe as IItemStack           = <twilightforest:fiery_pickaxe>;
+global frostedAmedianPickaxe as IItemStack  = <netherex:frosted_amedian_pickaxe>;
+global goldPickaxe as IItemStack            = <minecraft:golden_pickaxe>;
+global haderothPickaxe as IItemStack        = <metallurgy:haderoth_pickaxe>;
+global hepatizonPickaxe as IItemStack       = <metallurgy:hepatizon_pickaxe>;
+global ignatiusPickaxe as IItemStack        = <metallurgy:ignatius_pickaxe>;
+global inolashitePickaxe as IItemStack      = <metallurgy:inolashite_pickaxe>;
+global invarPickaxe as IItemStack           = <thermalfoundation:tool.pickaxe_invar>;
+global ironPickaxe as IItemStack            = <minecraft:iron_pickaxe>;
+global kalendritePickaxe as IItemStack      = <metallurgy:kalendrite_pickaxe>;
+global knightmetalPickaxe as IItemStack     = <twilightforest:knightmetal_pickaxe>;
+global krikPickaxe as IItemStack            = <metallurgy:krik_pickaxe>;
+global leadPickaxe as IItemStack            = <thermalfoundation:tool.pickaxe_lead>;
+global malachitePickaxe as IItemStack       = <boptools:pickaxe_malachite>;
+global midasiumPickaxe as IItemStack        = <metallurgy:midasium_pickaxe>;
+global mithrilPickaxe as IItemStack         = <metallurgy:mithril_pickaxe>;
+global nagrilitePickaxe as IItemStack       = <midnight:nagrilite_pickaxe>;
+global nickelPickaxe as IItemStack          = <thermalfoundation:tool.pickaxe_nickel>;
+global obsidianPickaxe as IItemStack        = <primal:obsidian_pickaxe>;
+global orichalcumPickaxe as IItemStack      = <metallurgy:orichalcum_pickaxe>;
+global oureclasePickaxe as IItemStack       = <metallurgy:oureclase_pickaxe>;
+global peridotPickaxe as IItemStack         = <boptools:pickaxe_peridot>;
+global platinumPickaxe as IItemStack        = <metallurgy:platinum_pickaxe>;
+global prometheumPickaxe as IItemStack      = <metallurgy:prometheum_pickaxe>;
+global quicksilverPickaxe as IItemStack     = <metallurgy:quicksilver_pickaxe>;
+global rubyPickaxe as IItemStack            = <boptools:pickaxe_ruby>;
+global sanguinitePickaxe as IItemStack      = <metallurgy:sanguinite_pickaxe>;
+global sapphirePickaxe as IItemStack        = <boptools:pickaxe_sapphire>;
+global shadowIronPickaxe as IItemStack      = <metallurgy:shadow_iron_pickaxe>;
+global shadowSteelPickaxe as IItemStack     = <metallurgy:shadow_steel_pickaxe>;
+global silverPickaxe as IItemStack          = <metallurgy:silver_pickaxe>;
+global steelPickaxe as IItemStack           = <metallurgy:steel_pickaxe>;
+global steeleafPickaxe as IItemStack        = <twilightforest:steeleaf_pickaxe>;
+global tanzanitePickaxe as IItemStack       = <boptools:pickaxe_tanzanite>;
+global tartaritePickaxe as IItemStack       = <metallurgy:tartarite_pickaxe>;
+global tenebrumPickaxe as IItemStack        = <midnight:tenebrum_pickaxe>;
+global tinPickaxe as IItemStack             = <thermalfoundation:tool.pickaxe_tin>;
+global topazPickaxe as IItemStack           = <boptools:pickaxe_topaz>;
+global umbriumPickaxe as IItemStack         = <defiledlands:umbrium_pickaxe>;
+global vulcanitePickaxe as IItemStack       = <metallurgy:vulcanite_pickaxe>;
+global vyroxeresPickaxe as IItemStack       = <metallurgy:vyroxeres_pickaxe>;
+global witheredAmedianPickaxe as IItemStack = <netherex:withered_amedian_pickaxe>;

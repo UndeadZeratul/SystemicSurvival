@@ -1,21 +1,16 @@
 {
-  "minecraft": {
-    "version": "1.12.2",
-    "modLoaders": [
-      {
-        "id": "forge-14.23.2.2624",
-        "primary": true,
-        "downloadInstaller": true,
-        "downloadUniversal": true,
-        "renameUniversal": "modpack.jar",
-        "name": "forge",
-        "folder": "common/base/loaders"
-      }
-    ]
-  },
-  "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
   "name": "${project.name}",
   "version": "${project.version}",
-  "author": "${packAuthor}"
+  "author": "${packAuthor}",
+  "gameVersion": "${mcVersion}",
+  "baseModLoader": {
+    "minecraftVersion": "${mcVersion}",
+    "forgeVersion": "14.23.5.2847",
+    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar",
+    "filename": "forge-1.12.2-14.23.5.2847.jar",
+    "downloadInstaller": true,
+    "downloadUniversal": true,
+    "renameUniversal": "modpack.jar",
+    "folder": "common/base/loaders"
+  }
 }

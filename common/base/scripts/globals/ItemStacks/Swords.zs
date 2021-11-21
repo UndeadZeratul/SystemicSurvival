@@ -1,0 +1,78 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Swords
+global adamantineSword as IItemStack      = <metallurgy:adamantine_sword>;
+global aluminumSword as IItemStack        = <thermalfoundation:tool.sword_aluminum>;
+global amberSword as IItemStack           = <boptools:sword_amber>;
+global amordrineSword as IItemStack       = <metallurgy:amordrine_sword>;
+global angmallenSword as IItemStack       = <metallurgy:angmallen_sword>;
+global astralSilverSword as IItemStack    = <metallurgy:astral_silver_sword>;
+global atlarusSword as IItemStack         = <metallurgy:atlarus_sword>;
+global blackSteelSword as IItemStack      = <metallurgy:black_steel_sword>;
+global blazedAmedianSword as IItemStack   = <netherex:blazed_amedian_sword>;
+global brassSword as IItemStack           = <metallurgy:brass_sword>;
+global bronzeSword as IItemStack          = <metallurgy:bronze_sword>;
+global carmotSword as IItemStack          = <metallurgy:carmot_sword>;
+global celenegilSword as IItemStack       = <metallurgy:celenegil_sword>;
+global ceruclaseSword as IItemStack       = <metallurgy:ceruclase_sword>;
+global constantanSword as IItemStack      = <thermalfoundation:tool.sword_constantan>;
+global copperSword as IItemStack          = <metallurgy:copper_sword>;
+global crudeIronSword as IItemStack       = <primal:sword_crude_iron>;
+global damascusSteelSword as IItemStack   = <metallurgy:damascus_steel_sword>;
+global deepIronSword as IItemStack        = <metallurgy:deep_iron_sword>;
+global desichalkosSword as IItemStack     = <metallurgy:desichalkos_sword>;
+global diamondSword as IItemStack         = <minecraft:diamond_sword>;
+global eboniteSword as IItemStack         = <midnight:ebonys_sword>;
+global electrumSword as IItemStack        = <metallurgy:electrum_sword>;
+global etheriumSword as IItemStack        = <metallurgy:etherium_sword>;
+global eximiteSword as IItemStack         = <metallurgy:eximite_sword>;
+global fierySword as IItemStack           = <twilightforest:fiery_sword>;
+global frostedAmedianSword as IItemStack  = <netherex:frosted_amedian_sword>;
+global goldSword as IItemStack            = <minecraft:golden_sword>;
+global glassSword as IItemStack           = <twilightforest:glass_sword>;
+global haderothSword as IItemStack        = <metallurgy:haderoth_sword>;
+global hepatizonSword as IItemStack       = <metallurgy:hepatizon_sword>;
+global iceSword as IItemStack             = <twilightforest:ice_sword>;
+global ignatiusSword as IItemStack        = <metallurgy:ignatius_sword>;
+global inolashiteSword as IItemStack      = <metallurgy:inolashite_sword>;
+global invarSword as IItemStack           = <thermalfoundation:tool.sword_invar>;
+global ironSword as IItemStack            = <minecraft:iron_sword>;
+global ironwoodSword as IItemStack        = <twilightforest:ironwood_sword>;
+global kalendriteSword as IItemStack      = <metallurgy:kalendrite_sword>;
+global knightmetalSword as IItemStack     = <twilightforest:knightmetal_sword>;
+global krikSword as IItemStack            = <metallurgy:krik_sword>;
+global leadSword as IItemStack            = <thermalfoundation:tool.sword_lead>;
+global malachiteSword as IItemStack       = <boptools:sword_malachite>;
+global midasiumSword as IItemStack        = <metallurgy:midasium_sword>;
+global mithrilSword as IItemStack         = <metallurgy:mithril_sword>;
+global nagriliteSword as IItemStack       = <midnight:nagrilite_sword>;
+global nickelSword as IItemStack          = <thermalfoundation:tool.sword_nickel>;
+global orichalcumSword as IItemStack      = <metallurgy:orichalcum_sword>;
+global oureclaseSword as IItemStack       = <metallurgy:oureclase_sword>;
+global peridotSword as IItemStack         = <boptools:sword_peridot>;
+global platinumSword as IItemStack        = <metallurgy:platinum_sword>;
+global prometheumSword as IItemStack      = <metallurgy:prometheum_sword>;
+global quicksilverSword as IItemStack     = <metallurgy:quicksilver_sword>;
+global riftBlade as IItemStack            = <dimdoors:rift_blade>;
+global rubySword as IItemStack            = <boptools:sword_ruby>;
+global sanguiniteSword as IItemStack      = <metallurgy:sanguinite_sword>;
+global sapphireSword as IItemStack        = <boptools:sword_sapphire>;
+global shadowIronSword as IItemStack      = <metallurgy:shadow_iron_sword>;
+global shadowSteelSword as IItemStack     = <metallurgy:shadow_steel_sword>;
+global silverSword as IItemStack          = <metallurgy:silver_sword>;
+global steelSword as IItemStack           = <metallurgy:steel_sword>;
+global steeleafSword as IItemStack        = <twilightforest:steeleaf_sword>;
+global tanzaniteSword as IItemStack       = <boptools:sword_tanzanite>;
+global tartariteSword as IItemStack       = <metallurgy:tartarite_sword>;
+global tenebrumSword as IItemStack        = <midnight:tenebrum_sword>;
+global tinSword as IItemStack             = <thermalfoundation:tool.sword_tin>;
+global topazSword as IItemStack           = <boptools:sword_topaz>;
+global umbriumSword as IItemStack         = <defiledlands:umbrium_sword>;
+global vulcaniteSword as IItemStack       = <metallurgy:vulcanite_sword>;
+global vyroxeresSword as IItemStack       = <metallurgy:vyroxeres_sword>;
+global witheredAmedianSword as IItemStack = <netherex:withered_amedian_sword>;

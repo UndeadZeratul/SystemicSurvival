@@ -1,0 +1,72 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Hoes
+global adamantineHoe as IItemStack      = <metallurgy:adamantine_hoe>;
+global aluminumHoe as IItemStack        = <thermalfoundation:tool.hoe_aluminum>;
+global amberHoe as IItemStack           = <boptools:hoe_amber>;
+global amordrineHoe as IItemStack       = <metallurgy:amordrine_hoe>;
+global angmallenHoe as IItemStack       = <metallurgy:angmallen_hoe>;
+global astralSilverHoe as IItemStack    = <metallurgy:astral_silver_hoe>;
+global atlarusHoe as IItemStack         = <metallurgy:atlarus_hoe>;
+global blackSteelHoe as IItemStack      = <metallurgy:black_steel_hoe>;
+global blazedAmedianHoe as IItemStack   = <netherex:blazed_amedian_hoe>;
+global brassHoe as IItemStack           = <metallurgy:brass_hoe>;
+global bronzeHoe as IItemStack          = <metallurgy:bronze_hoe>;
+global carmotHoe as IItemStack          = <metallurgy:carmot_hoe>;
+global celenegilHoe as IItemStack       = <metallurgy:celenegil_hoe>;
+global ceruclaseHoe as IItemStack       = <metallurgy:ceruclase_hoe>;
+global constantanHoe as IItemStack      = <thermalfoundation:tool.hoe_constantan>;
+global copperHoe as IItemStack          = <metallurgy:copper_hoe>;
+global damascusSteelHoe as IItemStack   = <metallurgy:damascus_steel_hoe>;
+global deepIronHoe as IItemStack        = <metallurgy:deep_iron_hoe>;
+global desichalkosHoe as IItemStack     = <metallurgy:desichalkos_hoe>;
+global eboniteHoe as IItemStack         = <midnight:ebonys_hoe>;
+global electrumHoe as IItemStack        = <metallurgy:electrum_hoe>;
+global etheriumHoe as IItemStack        = <metallurgy:etherium_hoe>;
+global eximiteHoe as IItemStack         = <metallurgy:eximite_hoe>;
+global frostedAmedianHoe as IItemStack  = <netherex:frosted_amedian_hoe>;
+global goldHoe as IItemStack            = <minecraft:golden_hoe>;
+global haderothHoe as IItemStack        = <metallurgy:haderoth_hoe>;
+global hepatizonHoe as IItemStack       = <metallurgy:hepatizon_hoe>;
+global ignatiusHoe as IItemStack        = <metallurgy:ignatius_hoe>;
+global inolashiteHoe as IItemStack      = <metallurgy:inolashite_hoe>;
+global invarHoe as IItemStack           = <thermalfoundation:tool.hoe_invar>;
+global ironHoe as IItemStack            = <minecraft:iron_hoe>;
+global ironwoodHoe as IItemStack        = <twilightforest:ironwood_hoe>;
+global kalendriteHoe as IItemStack      = <metallurgy:kalendrite_hoe>;
+global krikHoe as IItemStack            = <metallurgy:krik_hoe>;
+global leadHoe as IItemStack            = <thermalfoundation:tool.hoe_lead>;
+global malachiteHoe as IItemStack       = <boptools:hoe_malachite>;
+global midasiumHoe as IItemStack        = <metallurgy:midasium_hoe>;
+global mithrilHoe as IItemStack         = <metallurgy:mithril_hoe>;
+global nagriliteHoe as IItemStack       = <midnight:nagrilite_hoe>;
+global nickelHoe as IItemStack          = <thermalfoundation:tool.hoe_nickel>;
+global obsidianHoe as IItemStack        = <primal:obsidian_hoe>;
+global orichalcumHoe as IItemStack      = <metallurgy:orichalcum_hoe>;
+global oureclaseHoe as IItemStack       = <metallurgy:oureclase_hoe>;
+global peridotHoe as IItemStack         = <boptools:hoe_peridot>;
+global platinumHoe as IItemStack        = <metallurgy:platinum_hoe>;
+global prometheumHoe as IItemStack      = <metallurgy:prometheum_hoe>;
+global quicksilverHoe as IItemStack     = <metallurgy:quicksilver_hoe>;
+global rubyHoe as IItemStack            = <boptools:hoe_ruby>;
+global sanguiniteHoe as IItemStack      = <metallurgy:sanguinite_hoe>;
+global sapphireHoe as IItemStack        = <boptools:hoe_sapphire>;
+global shadowIronHoe as IItemStack      = <metallurgy:shadow_iron_hoe>;
+global shadowSteelHoe as IItemStack     = <metallurgy:shadow_steel_hoe>;
+global silverHoe as IItemStack          = <metallurgy:silver_hoe>;
+global steelHoe as IItemStack           = <metallurgy:steel_hoe>;
+global steeleafHoe as IItemStack        = <twilightforest:steeleaf_hoe>;
+global tanzaniteHoe as IItemStack       = <boptools:hoe_tanzanite>;
+global tartariteHoe as IItemStack       = <metallurgy:tartarite_hoe>;
+global tenebrumHoe as IItemStack        = <midnight:tenebrum_hoe>;
+global tinHoe as IItemStack             = <thermalfoundation:tool.hoe_tin>;
+global topazHoe as IItemStack           = <boptools:hoe_topaz>;
+global umbriumHoe as IItemStack         = <defiledlands:umbrium_hoe>;
+global vulcaniteHoe as IItemStack       = <metallurgy:vulcanite_hoe>;
+global vyroxeresHoe as IItemStack       = <metallurgy:vyroxeres_hoe>;
+global witheredAmedianHoe as IItemStack = <netherex:withered_amedian_hoe>;

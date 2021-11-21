@@ -1,0 +1,71 @@
+#priority 1000
+
+# IMPORTS
+#---------
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+
+# Plates
+global anyAdamantinePlate as IIngredient    = <ore:plateAdamantine>;
+global anyAluminumPlate as IIngredient      = <ore:plateAluminum>;
+global anyAmberPlate as IIngredient         = <ore:plateAmber>;
+global anyAmordrinePlate as IIngredient     = <ore:plateAmordrine>;
+global anyAngmallenPlate as IIngredient     = <ore:plateAngmallen>;
+global anyAstralSilverPlate as IIngredient  = <ore:plateAstralSilver>;
+global anyAtlarusPlate as IIngredient       = <ore:plateAtlarus>;
+global anyBlackSteelPlate as IIngredient    = <ore:plateBlackSteel>;
+global anyBrassPlate as IIngredient         = <ore:plateBrass>;
+global anyBronzePlate as IIngredient        = <ore:plateBronze>;
+global anyCarmotPlate as IIngredient        = <ore:plateCarmot>;
+global anyCelenegilPlate as IIngredient     = <ore:plateCelenegil>;
+global anyCeruclasePlate as IIngredient     = <ore:plateCeruclase>;
+global anyConstantanPlate as IIngredient    = <ore:plateConstantan>;
+global anyCopperPlate as IIngredient        = <ore:plateCopper>;
+global anyCrudeIronPlate as IIngredient     = <ore:plateCrudeIron>;
+global anyDamascusSteelPlate as IIngredient = <ore:plateDamascusSteel>;
+global anyDeepIronPlate as IIngredient      = <ore:plateDeepIron>;
+global anyDesichalkosPlate as IIngredient   = <ore:plateDesichalkos>;
+global anyDiamondPlate as IIngredient       = <ore:plateDiamond>;
+global anyElectrumPlate as IIngredient      = <ore:plateElectrum>;
+global anyEtheriumPlate as IIngredient      = <ore:plateEtherium>;
+global anyEximitePlate as IIngredient       = <ore:plateEximite>;
+global anyFieryPlate as IIngredient         = <ore:plateFiery>;
+global anyGoldPlate as IIngredient          = <ore:plateGold>;
+global anyHaderothPlate as IIngredient      = <ore:plateHaderoth>;
+global anyHepatizonPlate as IIngredient     = <ore:plateHepatizon>;
+global anyIgnatiusPlate as IIngredient      = <ore:plateIgnatius>;
+global anyInolashitePlate as IIngredient    = <ore:plateInolashite>;
+global anyInvarPlate as IIngredient         = <ore:plateInvar>;
+global anyIronPlate as IIngredient          = <ore:plateIron>;
+global anyKalendritePlate as IIngredient    = <ore:plateKalendrite>;
+global anyKrikPlate as IIngredient          = <ore:plateKrik>;
+global anyLeadPlate as IIngredient          = <ore:plateLead>;
+global anyMalachitePlate as IIngredient     = <ore:plateMalachite>;
+global anyMidasiumPlate as IIngredient      = <ore:plateMidasium>;
+global anyMithrilPlate as IIngredient       = <ore:plateMithril>;
+global anyNagrilitePlate as IIngredient     = <ore:plateNagrilite>;
+global anyNickelPlate as IIngredient        = <ore:plateNickel>;
+global anyObsidianPlate as IIngredient      = <ore:plateObsidian>;
+global anyOrichalcumPlate as IIngredient    = <ore:plateOrichalcum>;
+global anyOureclasePlate as IIngredient     = <ore:plateOureclase>;
+global anyPeridotPlate as IIngredient       = <ore:platePeridot>;
+global anyPlatinumPlate as IIngredient      = <ore:platePlatinum>;
+global anyPrometheumPlate as IIngredient    = <ore:platePrometheum>;
+global anyQuicksilverPlate as IIngredient   = <ore:plateQuicksilver>;
+global anyQuartzPlate as IIngredient        = <ore:plateQuartz>;
+global anyRubyPlate as IIngredient          = <ore:plateRuby>;
+global anySanguinitePlate as IIngredient    = <ore:plateSanguinite>;
+global anySapphirePlate as IIngredient      = <ore:plateSapphire>;
+global anyShadowIronPlate as IIngredient    = <ore:plateShadowIron>;
+global anyShadowSteelPlate as IIngredient   = <ore:plateShadowSteel>;
+global anySilverPlate as IIngredient        = <ore:plateSilver>;
+global anySteelPlate as IIngredient         = <ore:plateSteel>;
+global anySteeleafPlate as IIngredient      = <ore:plateSteeleaf>;
+global anyTanzanitePlate as IIngredient     = <ore:plateTanzanite>;
+global anyTartaritePlate as IIngredient     = <ore:plateTartarite>;
+global anyTenebrumPlate as IIngredient      = <ore:plateTenebrum>;
+global anyTinPlate as IIngredient           = <ore:plateTin>;
+global anyTopazPlate as IIngredient         = <ore:plateTopaz>;
+global anyUmbriumPlate as IIngredient       = <ore:plateUmbrium>;
+global anyVulcanitePlate as IIngredient     = <ore:plateVulcanite>;
+global anyVyroxeresPlate as IIngredient     = <ore:plateVyroxeres>;

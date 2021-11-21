@@ -1,0 +1,66 @@
+{
+  "installedAddons": [
+    {
+      "addonID": 69118,
+      "gameInstanceID": "503b3109-acc7-4050-b14e-cf2691107ad2",
+      "installedFile": {
+        "id": 2664449,
+        "displayName": "Morpheus-1.12.2-3.5.106.jar",
+        "fileName": "Morpheus-1.12.2-3.5.106.jar",
+        "fileDate": "2019-01-24T20:32:26.393Z",
+        "fileLength": 21508,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1035353149,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2009053812,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2483645925,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 783395017,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Morpheus-1.12.2-3.5.106.jar"
+      },
+      "dateInstalled": "2020-04-25T16:01:36.3448565Z",
+      "dateUpdated": "2020-04-25T16:01:36.3458543Z",
+      "dateLastUpdateAttempted": "2020-04-25T16:01:36.3458543Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    }
+  ]
+}
